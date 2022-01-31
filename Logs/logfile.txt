@@ -1,0 +1,4495 @@
+01/24/22  20:15:26
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/24/22  20:15:29
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/24/22  20:15:32
+Humidity is: 26.40%
+Temperature is: 73.04°F
+01/24/22  20:15:35
+Humidity is: 26.60%
+Temperature is: 72.86°F
+01/24/22  20:15:38
+Humidity is: 26.60%
+Temperature is: 73.04°F
+01/24/22  20:15:41
+Humidity is: 26.60%
+Temperature is: 72.86°F
+01/24/22  20:15:44
+Humidity is: 26.70%
+Temperature is: 73.04°F
+01/24/22  20:15:47
+Humidity is: 26.60%
+Temperature is: 73.04°F
+01/24/22  20:15:50
+Humidity is: 26.60%
+Temperature is: 72.86°F
+01/24/22  20:15:53
+Humidity is: 26.60%
+Temperature is: 73.04°F
+
+01/24/22  21:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/24/22  21:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/24/22  21:00:07
+Humidity is: 24.90%
+Temperature is: 72.50°F
+01/24/22  21:00:10
+Humidity is: 25.10%
+Temperature is: 72.50°F
+01/24/22  21:00:13
+Humidity is: 25.00%
+Temperature is: 72.32°F
+01/24/22  21:00:16
+Humidity is: 25.10%
+Temperature is: 72.32°F
+01/24/22  21:00:19
+Humidity is: 25.10%
+Temperature is: 72.50°F
+01/24/22  21:00:22
+Humidity is: 25.00%
+Temperature is: 72.32°F
+01/24/22  21:00:25
+Humidity is: 25.10%
+Temperature is: 72.32°F
+01/24/22  21:00:28
+Humidity is: 25.10%
+Temperature is: 72.32°F
+
+01/24/22  22:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/24/22  22:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/24/22  22:00:07
+Humidity is: 25.60%
+Temperature is: 72.14°F
+01/24/22  22:00:10
+Humidity is: 25.90%
+Temperature is: 71.96°F
+01/24/22  22:00:13
+Humidity is: 25.80%
+Temperature is: 71.96°F
+01/24/22  22:00:16
+Humidity is: 25.90%
+Temperature is: 71.96°F
+01/24/22  22:00:19
+Humidity is: 25.80%
+Temperature is: 71.96°F
+01/24/22  22:00:22
+Humidity is: 25.80%
+Temperature is: 71.96°F
+01/24/22  22:00:25
+Humidity is: 25.90%
+Temperature is: 71.96°F
+01/24/22  22:00:28
+Humidity is: 25.90%
+Temperature is: 71.96°F
+
+01/24/22  23:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/24/22  23:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/24/22  23:00:07
+Humidity is: 26.30%
+Temperature is: 71.96°F
+01/24/22  23:00:10
+Humidity is: 26.50%
+Temperature is: 71.78°F
+01/24/22  23:00:13
+Humidity is: 26.50%
+Temperature is: 71.96°F
+01/24/22  23:00:16
+Humidity is: 26.50%
+Temperature is: 71.96°F
+01/24/22  23:00:19
+Humidity is: 26.50%
+Temperature is: 71.78°F
+01/24/22  23:00:22
+Humidity is: 26.50%
+Temperature is: 71.96°F
+01/24/22  23:00:25
+Humidity is: 26.50%
+Temperature is: 71.96°F
+01/24/22  23:00:28
+Humidity is: 26.50%
+Temperature is: 71.78°F
+
+01/25/22  00:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  00:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  00:00:08
+Humidity is: 27.10%
+Temperature is: 71.78°F
+01/25/22  00:00:11
+Humidity is: 27.40%
+Temperature is: 71.78°F
+01/25/22  00:00:14
+Humidity is: 27.30%
+Temperature is: 71.60°F
+01/25/22  00:00:17
+Humidity is: 27.40%
+Temperature is: 71.60°F
+01/25/22  00:00:20
+Humidity is: 27.30%
+Temperature is: 71.60°F
+01/25/22  00:00:23
+Humidity is: 27.40%
+Temperature is: 71.60°F
+01/25/22  00:00:26
+Humidity is: 27.60%
+Temperature is: 71.78°F
+01/25/22  00:00:29
+Humidity is: 27.40%
+Temperature is: 71.78°F
+
+01/25/22  01:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  01:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  01:00:07
+Humidity is: 26.40%
+Temperature is: 71.42°F
+01/25/22  01:00:10
+Humidity is: 26.60%
+Temperature is: 71.42°F
+01/25/22  01:00:13
+Humidity is: 26.60%
+Temperature is: 71.42°F
+01/25/22  01:00:16
+Humidity is: 26.70%
+Temperature is: 71.42°F
+01/25/22  01:00:19
+Humidity is: 26.70%
+Temperature is: 71.42°F
+01/25/22  01:00:22
+Humidity is: 26.80%
+Temperature is: 71.42°F
+01/25/22  01:00:25
+Humidity is: 26.80%
+Temperature is: 71.42°F
+01/25/22  01:00:28
+Humidity is: 26.70%
+Temperature is: 71.42°F
+
+01/25/22  02:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  02:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  02:00:08
+Humidity is: 26.40%
+Temperature is: 71.42°F
+01/25/22  02:00:11
+Humidity is: 26.70%
+Temperature is: 71.42°F
+01/25/22  02:00:14
+Humidity is: 26.70%
+Temperature is: 71.42°F
+01/25/22  02:00:17
+Humidity is: 26.70%
+Temperature is: 71.24°F
+01/25/22  02:00:20
+Humidity is: 26.80%
+Temperature is: 71.42°F
+01/25/22  02:00:23
+Humidity is: 26.70%
+Temperature is: 71.42°F
+01/25/22  02:00:26
+Humidity is: 26.70%
+Temperature is: 71.24°F
+01/25/22  02:00:29
+Humidity is: 26.80%
+Temperature is: 71.42°F
+
+01/25/22  03:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  03:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  03:00:07
+Humidity is: 25.70%
+Temperature is: 71.60°F
+01/25/22  03:00:10
+Humidity is: 26.00%
+Temperature is: 71.60°F
+01/25/22  03:00:13
+Humidity is: 25.90%
+Temperature is: 71.60°F
+01/25/22  03:00:16
+Humidity is: 25.90%
+Temperature is: 71.60°F
+01/25/22  03:00:19
+Humidity is: 25.90%
+Temperature is: 71.60°F
+01/25/22  03:00:22
+Humidity is: 25.90%
+Temperature is: 71.60°F
+01/25/22  03:00:25
+Humidity is: 25.90%
+Temperature is: 71.60°F
+01/25/22  03:00:28
+Humidity is: 26.00%
+Temperature is: 71.60°F
+
+01/25/22  04:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  04:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  04:00:08
+Humidity is: 25.90%
+Temperature is: 71.60°F
+01/25/22  04:00:11
+Humidity is: 26.10%
+Temperature is: 71.42°F
+01/25/22  04:00:14
+Humidity is: 26.10%
+Temperature is: 71.42°F
+01/25/22  04:00:17
+Humidity is: 26.10%
+Temperature is: 71.42°F
+01/25/22  04:00:20
+Humidity is: 26.10%
+Temperature is: 71.42°F
+01/25/22  04:00:23
+Humidity is: 26.00%
+Temperature is: 71.42°F
+01/25/22  04:00:26
+Humidity is: 26.00%
+Temperature is: 71.42°F
+01/25/22  04:00:29
+Humidity is: 26.00%
+Temperature is: 71.42°F
+
+01/25/22  05:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  05:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  05:00:07
+Humidity is: 25.60%
+Temperature is: 71.60°F
+01/25/22  05:00:10
+Humidity is: 25.80%
+Temperature is: 71.60°F
+01/25/22  05:00:13
+Humidity is: 25.80%
+Temperature is: 71.42°F
+01/25/22  05:00:16
+Humidity is: 25.90%
+Temperature is: 71.60°F
+01/25/22  05:00:19
+Humidity is: 25.80%
+Temperature is: 71.60°F
+01/25/22  05:00:22
+Humidity is: 25.80%
+Temperature is: 71.60°F
+01/25/22  05:00:25
+Humidity is: 25.80%
+Temperature is: 71.42°F
+01/25/22  05:00:28
+Humidity is: 25.80%
+Temperature is: 71.60°F
+
+01/25/22  06:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  06:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  06:00:08
+Humidity is: 25.30%
+Temperature is: 71.96°F
+01/25/22  06:00:11
+Humidity is: 25.60%
+Temperature is: 71.78°F
+01/25/22  06:00:14
+Humidity is: 25.50%
+Temperature is: 71.78°F
+01/25/22  06:00:17
+Humidity is: 25.50%
+Temperature is: 71.78°F
+01/25/22  06:00:20
+Humidity is: 25.50%
+Temperature is: 71.78°F
+01/25/22  06:00:23
+Humidity is: 25.70%
+Temperature is: 71.78°F
+01/25/22  06:00:26
+Humidity is: 25.50%
+Temperature is: 71.60°F
+01/25/22  06:00:29
+Humidity is: 25.40%
+Temperature is: 71.60°F
+
+01/25/22  07:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  07:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  07:00:07
+Humidity is: 25.30%
+Temperature is: 71.60°F
+01/25/22  07:00:10
+Humidity is: 25.60%
+Temperature is: 71.60°F
+01/25/22  07:00:14
+Humidity is: 25.60%
+Temperature is: 71.60°F
+01/25/22  07:00:17
+Humidity is: 25.60%
+Temperature is: 71.60°F
+01/25/22  07:00:20
+Humidity is: 25.60%
+Temperature is: 71.42°F
+01/25/22  07:00:23
+Humidity is: 25.60%
+Temperature is: 71.60°F
+01/25/22  07:00:26
+Humidity is: 25.50%
+Temperature is: 71.60°F
+01/25/22  07:00:29
+Humidity is: 25.60%
+Temperature is: 71.60°F
+
+01/25/22  08:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  08:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  08:00:07
+Humidity is: 25.60%
+Temperature is: 72.14°F
+01/25/22  08:00:10
+Humidity is: 25.80%
+Temperature is: 71.96°F
+01/25/22  08:00:13
+Humidity is: 25.80%
+Temperature is: 71.96°F
+01/25/22  08:00:16
+Humidity is: 25.80%
+Temperature is: 71.96°F
+01/25/22  08:00:19
+Humidity is: 25.90%
+Temperature is: 71.96°F
+01/25/22  08:00:22
+Humidity is: 25.90%
+Temperature is: 71.96°F
+01/25/22  08:00:25
+Humidity is: 25.90%
+Temperature is: 71.96°F
+01/25/22  08:00:28
+Humidity is: 25.90%
+Temperature is: 71.96°F
+
+01/25/22  09:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  09:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  09:00:07
+Humidity is: 26.00%
+Temperature is: 71.78°F
+01/25/22  09:00:10
+Humidity is: 26.20%
+Temperature is: 71.78°F
+01/25/22  09:00:13
+Humidity is: 26.20%
+Temperature is: 71.78°F
+01/25/22  09:00:16
+Humidity is: 26.20%
+Temperature is: 71.78°F
+01/25/22  09:00:19
+Humidity is: 26.20%
+Temperature is: 71.78°F
+01/25/22  09:00:23
+Humidity is: 26.50%
+Temperature is: 71.78°F
+01/25/22  09:00:26
+Humidity is: 26.30%
+Temperature is: 71.78°F
+01/25/22  09:00:29
+Humidity is: 26.20%
+Temperature is: 71.78°F
+
+01/25/22  10:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  10:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  10:00:07
+Humidity is: 26.30%
+Temperature is: 71.78°F
+01/25/22  10:00:10
+Humidity is: 26.50%
+Temperature is: 71.60°F
+01/25/22  10:00:13
+Humidity is: 26.50%
+Temperature is: 71.60°F
+01/25/22  10:00:16
+Humidity is: 26.60%
+Temperature is: 71.60°F
+01/25/22  10:00:19
+Humidity is: 26.50%
+Temperature is: 71.60°F
+01/25/22  10:00:22
+Humidity is: 26.50%
+Temperature is: 71.60°F
+01/25/22  10:00:25
+Humidity is: 26.50%
+Temperature is: 71.60°F
+01/25/22  10:00:28
+Humidity is: 26.50%
+Temperature is: 71.60°F
+
+01/25/22  11:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  11:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  11:00:07
+Humidity is: 26.50%
+Temperature is: 71.96°F
+01/25/22  11:00:10
+Humidity is: 26.80%
+Temperature is: 71.78°F
+01/25/22  11:00:13
+Humidity is: 26.80%
+Temperature is: 71.78°F
+01/25/22  11:00:16
+Humidity is: 26.70%
+Temperature is: 71.60°F
+01/25/22  11:00:19
+Humidity is: 26.80%
+Temperature is: 71.78°F
+01/25/22  11:00:22
+Humidity is: 26.80%
+Temperature is: 71.60°F
+01/25/22  11:00:25
+Humidity is: 26.80%
+Temperature is: 71.60°F
+01/25/22  11:00:28
+Humidity is: 26.80%
+Temperature is: 71.78°F
+
+01/25/22  12:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  12:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  12:00:07
+Humidity is: 26.50%
+Temperature is: 71.60°F
+01/25/22  12:00:10
+Humidity is: 26.70%
+Temperature is: 71.60°F
+01/25/22  12:00:13
+Humidity is: 26.70%
+Temperature is: 71.60°F
+01/25/22  12:00:16
+Humidity is: 26.80%
+Temperature is: 71.60°F
+01/25/22  12:00:19
+Humidity is: 26.80%
+Temperature is: 71.60°F
+01/25/22  12:00:22
+Humidity is: 26.80%
+Temperature is: 71.60°F
+01/25/22  12:00:25
+Humidity is: 26.80%
+Temperature is: 71.60°F
+01/25/22  12:00:28
+Humidity is: 26.70%
+Temperature is: 71.60°F
+
+01/25/22  13:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  13:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  13:00:07
+Humidity is: 27.00%
+Temperature is: 72.32°F
+01/25/22  13:00:10
+Humidity is: 27.20%
+Temperature is: 72.14°F
+01/25/22  13:00:13
+Humidity is: 27.30%
+Temperature is: 72.14°F
+01/25/22  13:00:16
+Humidity is: 27.20%
+Temperature is: 72.14°F
+01/25/22  13:00:19
+Humidity is: 27.30%
+Temperature is: 72.14°F
+01/25/22  13:00:22
+Humidity is: 27.30%
+Temperature is: 72.14°F
+01/25/22  13:00:25
+Humidity is: 27.30%
+Temperature is: 72.14°F
+01/25/22  13:00:28
+Humidity is: 27.30%
+Temperature is: 72.14°F
+
+01/25/22  14:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  14:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  14:00:07
+Humidity is: 27.00%
+Temperature is: 71.96°F
+01/25/22  14:00:10
+Humidity is: 27.30%
+Temperature is: 71.96°F
+01/25/22  14:00:13
+Humidity is: 27.20%
+Temperature is: 71.96°F
+01/25/22  14:00:16
+Humidity is: 27.20%
+Temperature is: 71.96°F
+01/25/22  14:00:19
+Humidity is: 27.20%
+Temperature is: 71.96°F
+01/25/22  14:00:22
+Humidity is: 27.20%
+Temperature is: 71.96°F
+01/25/22  14:00:25
+Humidity is: 27.20%
+Temperature is: 71.96°F
+01/25/22  14:00:28
+Humidity is: 27.20%
+Temperature is: 71.96°F
+
+01/25/22  15:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  15:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  15:00:07
+Humidity is: 26.90%
+Temperature is: 72.14°F
+01/25/22  15:00:10
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  15:00:13
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  15:00:16
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  15:00:19
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  15:00:22
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  15:00:25
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  15:00:28
+Humidity is: 27.10%
+Temperature is: 71.96°F
+
+01/25/22  16:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  16:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  16:00:07
+Humidity is: 25.90%
+Temperature is: 73.22°F
+01/25/22  16:00:10
+Humidity is: 26.20%
+Temperature is: 73.04°F
+01/25/22  16:00:13
+Humidity is: 26.20%
+Temperature is: 73.04°F
+01/25/22  16:00:16
+Humidity is: 26.20%
+Temperature is: 73.04°F
+01/25/22  16:00:19
+Humidity is: 26.20%
+Temperature is: 73.04°F
+01/25/22  16:00:22
+Humidity is: 26.30%
+Temperature is: 73.04°F
+01/25/22  16:00:25
+Humidity is: 26.20%
+Temperature is: 73.04°F
+01/25/22  16:00:28
+Humidity is: 26.20%
+Temperature is: 73.04°F
+
+01/25/22  17:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  17:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  17:00:07
+Humidity is: 26.20%
+Temperature is: 72.32°F
+01/25/22  17:00:10
+Humidity is: 26.40%
+Temperature is: 72.32°F
+01/25/22  17:00:13
+Humidity is: 26.40%
+Temperature is: 72.14°F
+01/25/22  17:00:16
+Humidity is: 26.40%
+Temperature is: 72.32°F
+01/25/22  17:00:19
+Humidity is: 26.50%
+Temperature is: 72.14°F
+01/25/22  17:00:22
+Humidity is: 26.50%
+Temperature is: 72.14°F
+01/25/22  17:00:25
+Humidity is: 26.40%
+Temperature is: 72.14°F
+01/25/22  17:00:28
+Humidity is: 26.40%
+Temperature is: 72.14°F
+
+01/25/22  18:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  18:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  18:00:07
+Humidity is: 27.00%
+Temperature is: 73.04°F
+01/25/22  18:00:10
+Humidity is: 27.20%
+Temperature is: 72.86°F
+01/25/22  18:00:13
+Humidity is: 27.20%
+Temperature is: 72.86°F
+01/25/22  18:00:16
+Humidity is: 25.90%
+Temperature is: 72.86°F
+01/25/22  18:00:19
+Humidity is: 27.20%
+Temperature is: 72.86°F
+01/25/22  18:00:22
+Humidity is: 27.20%
+Temperature is: 72.68°F
+01/25/22  18:00:25
+Humidity is: 27.30%
+Temperature is: 72.86°F
+01/25/22  18:00:28
+Humidity is: 27.50%
+Temperature is: 72.86°F
+
+01/25/22  19:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  19:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  19:00:07
+Humidity is: 28.50%
+Temperature is: 73.40°F
+01/25/22  19:00:10
+Humidity is: 28.70%
+Temperature is: 73.22°F
+01/25/22  19:00:13
+Humidity is: 28.70%
+Temperature is: 73.22°F
+01/25/22  19:00:16
+Humidity is: 28.70%
+Temperature is: 73.22°F
+01/25/22  19:00:19
+Humidity is: 28.70%
+Temperature is: 73.22°F
+01/25/22  19:00:22
+Humidity is: 28.80%
+Temperature is: 73.22°F
+01/25/22  19:00:25
+Humidity is: 28.80%
+Temperature is: 73.22°F
+01/25/22  19:00:28
+Humidity is: 28.80%
+Temperature is: 73.22°F
+
+01/25/22  20:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  20:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  20:00:07
+Humidity is: 26.20%
+Temperature is: 73.58°F
+01/25/22  20:00:10
+Humidity is: 26.50%
+Temperature is: 73.58°F
+01/25/22  20:00:13
+Humidity is: 26.50%
+Temperature is: 73.58°F
+01/25/22  20:00:16
+Humidity is: 26.50%
+Temperature is: 73.58°F
+01/25/22  20:00:19
+Humidity is: 26.50%
+Temperature is: 73.58°F
+01/25/22  20:00:22
+Humidity is: 26.50%
+Temperature is: 73.58°F
+01/25/22  20:00:25
+Humidity is: 26.50%
+Temperature is: 73.58°F
+01/25/22  20:00:28
+Humidity is: 26.50%
+Temperature is: 73.58°F
+
+01/25/22  21:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  21:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  21:00:07
+Humidity is: 27.90%
+Temperature is: 72.86°F
+01/25/22  21:00:10
+Humidity is: 28.10%
+Temperature is: 72.86°F
+01/25/22  21:00:13
+Humidity is: 28.10%
+Temperature is: 72.86°F
+01/25/22  21:00:16
+Humidity is: 28.10%
+Temperature is: 72.86°F
+01/25/22  21:00:19
+Humidity is: 28.10%
+Temperature is: 72.86°F
+01/25/22  21:00:22
+Humidity is: 28.10%
+Temperature is: 72.86°F
+01/25/22  21:00:25
+Humidity is: 28.10%
+Temperature is: 72.86°F
+01/25/22  21:00:28
+Humidity is: 28.10%
+Temperature is: 72.86°F
+
+01/25/22  22:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  22:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  22:00:08
+Humidity is: 27.40%
+Temperature is: 72.50°F
+01/25/22  22:00:11
+Humidity is: 27.70%
+Temperature is: 72.32°F
+01/25/22  22:00:14
+Humidity is: 27.70%
+Temperature is: 72.32°F
+01/25/22  22:00:17
+Humidity is: 27.60%
+Temperature is: 72.32°F
+01/25/22  22:00:20
+Humidity is: 27.70%
+Temperature is: 72.32°F
+01/25/22  22:00:23
+Humidity is: 27.70%
+Temperature is: 72.32°F
+01/25/22  22:00:26
+Humidity is: 27.70%
+Temperature is: 72.32°F
+01/25/22  22:00:29
+Humidity is: 27.70%
+Temperature is: 72.32°F
+
+01/25/22  23:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  23:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/25/22  23:00:07
+Humidity is: 26.90%
+Temperature is: 72.14°F
+01/25/22  23:00:10
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  23:00:13
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  23:00:16
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  23:00:19
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  23:00:22
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  23:00:25
+Humidity is: 27.10%
+Temperature is: 71.96°F
+01/25/22  23:00:28
+Humidity is: 27.10%
+Temperature is: 71.96°F
+
+01/26/22  00:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  00:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  00:00:08
+Humidity is: 25.50%
+Temperature is: 71.96°F
+01/26/22  00:00:11
+Humidity is: 25.70%
+Temperature is: 71.78°F
+01/26/22  00:00:14
+Humidity is: 25.80%
+Temperature is: 71.96°F
+01/26/22  00:00:17
+Humidity is: 25.80%
+Temperature is: 71.78°F
+01/26/22  00:00:20
+Humidity is: 25.80%
+Temperature is: 71.78°F
+01/26/22  00:00:23
+Humidity is: 25.80%
+Temperature is: 71.78°F
+01/26/22  00:00:26
+Humidity is: 25.80%
+Temperature is: 71.78°F
+01/26/22  00:00:29
+Humidity is: 25.80%
+Temperature is: 71.78°F
+
+01/26/22  01:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  01:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  01:00:07
+Humidity is: 24.50%
+Temperature is: 71.78°F
+01/26/22  01:00:10
+Humidity is: 24.80%
+Temperature is: 71.78°F
+01/26/22  01:00:13
+Humidity is: 24.80%
+Temperature is: 71.60°F
+01/26/22  01:00:16
+Humidity is: 24.70%
+Temperature is: 71.60°F
+01/26/22  01:00:19
+Humidity is: 24.70%
+Temperature is: 71.60°F
+01/26/22  01:00:22
+Humidity is: 24.80%
+Temperature is: 71.78°F
+01/26/22  01:00:25
+Humidity is: 24.70%
+Temperature is: 71.78°F
+01/26/22  01:00:28
+Humidity is: 24.70%
+Temperature is: 71.60°F
+
+01/26/22  02:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  02:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  02:00:08
+Humidity is: 23.70%
+Temperature is: 71.42°F
+01/26/22  02:00:11
+Humidity is: 23.90%
+Temperature is: 71.42°F
+01/26/22  02:00:14
+Humidity is: 23.90%
+Temperature is: 71.42°F
+01/26/22  02:00:17
+Humidity is: 23.90%
+Temperature is: 71.42°F
+01/26/22  02:00:20
+Humidity is: 24.00%
+Temperature is: 71.42°F
+01/26/22  02:00:23
+Humidity is: 23.90%
+Temperature is: 71.42°F
+01/26/22  02:00:26
+Humidity is: 24.00%
+Temperature is: 71.42°F
+01/26/22  02:00:29
+Humidity is: 23.90%
+Temperature is: 71.42°F
+
+01/26/22  03:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  03:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  03:00:07
+Humidity is: 23.20%
+Temperature is: 71.60°F
+01/26/22  03:00:10
+Humidity is: 23.50%
+Temperature is: 71.60°F
+01/26/22  03:00:13
+Humidity is: 23.50%
+Temperature is: 71.60°F
+01/26/22  03:00:16
+Humidity is: 23.50%
+Temperature is: 71.60°F
+01/26/22  03:00:19
+Humidity is: 23.60%
+Temperature is: 71.60°F
+01/26/22  03:00:22
+Humidity is: 23.50%
+Temperature is: 71.60°F
+01/26/22  03:00:25
+Humidity is: 23.50%
+Temperature is: 71.60°F
+01/26/22  03:00:28
+Humidity is: 23.50%
+Temperature is: 71.60°F
+
+01/26/22  04:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  04:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  04:00:08
+Humidity is: 22.70%
+Temperature is: 71.60°F
+01/26/22  04:00:11
+Humidity is: 22.90%
+Temperature is: 71.42°F
+01/26/22  04:00:14
+Humidity is: 22.90%
+Temperature is: 71.42°F
+01/26/22  04:00:17
+Humidity is: 22.90%
+Temperature is: 71.42°F
+01/26/22  04:00:20
+Humidity is: 22.90%
+Temperature is: 71.42°F
+01/26/22  04:00:23
+Humidity is: 22.90%
+Temperature is: 71.42°F
+01/26/22  04:00:26
+Humidity is: 22.90%
+Temperature is: 71.42°F
+01/26/22  04:00:29
+Humidity is: 22.90%
+Temperature is: 71.42°F
+
+01/26/22  05:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  05:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  05:00:07
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/26/22  05:00:10
+Humidity is: 22.70%
+Temperature is: 71.42°F
+01/26/22  05:00:13
+Humidity is: 22.60%
+Temperature is: 71.42°F
+01/26/22  05:00:16
+Humidity is: 22.70%
+Temperature is: 71.42°F
+01/26/22  05:00:19
+Humidity is: 22.70%
+Temperature is: 71.42°F
+01/26/22  05:00:22
+Humidity is: 22.70%
+Temperature is: 71.42°F
+01/26/22  05:00:25
+Humidity is: 22.70%
+Temperature is: 71.42°F
+01/26/22  05:00:28
+Humidity is: 22.70%
+Temperature is: 71.42°F
+
+01/26/22  06:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  06:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  06:00:08
+Humidity is: 22.20%
+Temperature is: 71.42°F
+01/26/22  06:00:11
+Humidity is: 22.40%
+Temperature is: 71.24°F
+01/26/22  06:00:14
+Humidity is: 22.50%
+Temperature is: 71.24°F
+01/26/22  06:00:17
+Humidity is: 22.50%
+Temperature is: 71.42°F
+01/26/22  06:00:20
+Humidity is: 22.40%
+Temperature is: 71.24°F
+01/26/22  06:00:23
+Humidity is: 22.40%
+Temperature is: 71.24°F
+01/26/22  06:00:26
+Humidity is: 22.50%
+Temperature is: 71.24°F
+01/26/22  06:00:29
+Humidity is: 22.50%
+Temperature is: 71.42°F
+
+01/26/22  07:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  07:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  07:00:07
+Humidity is: 21.60%
+Temperature is: 71.42°F
+01/26/22  07:00:10
+Humidity is: 21.80%
+Temperature is: 71.24°F
+01/26/22  07:00:13
+Humidity is: 21.80%
+Temperature is: 71.24°F
+01/26/22  07:00:16
+Humidity is: 21.80%
+Temperature is: 71.24°F
+01/26/22  07:00:19
+Humidity is: 21.80%
+Temperature is: 71.24°F
+01/26/22  07:00:22
+Humidity is: 21.80%
+Temperature is: 71.24°F
+01/26/22  07:00:25
+Humidity is: 21.90%
+Temperature is: 71.24°F
+01/26/22  07:00:28
+Humidity is: 21.80%
+Temperature is: 71.24°F
+
+01/26/22  08:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  08:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  08:00:07
+Humidity is: 22.10%
+Temperature is: 71.60°F
+01/26/22  08:00:10
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/26/22  08:00:13
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/26/22  08:00:16
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/26/22  08:00:19
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/26/22  08:00:22
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/26/22  08:00:25
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/26/22  08:00:28
+Humidity is: 22.40%
+Temperature is: 71.60°F
+
+01/26/22  09:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  09:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  09:00:07
+Humidity is: 22.00%
+Temperature is: 72.50°F
+01/26/22  09:00:10
+Humidity is: 22.30%
+Temperature is: 72.50°F
+01/26/22  09:00:13
+Humidity is: 22.20%
+Temperature is: 72.32°F
+01/26/22  09:00:16
+Humidity is: 22.20%
+Temperature is: 72.32°F
+01/26/22  09:00:19
+Humidity is: 22.30%
+Temperature is: 72.32°F
+01/26/22  09:00:22
+Humidity is: 22.20%
+Temperature is: 72.32°F
+01/26/22  09:00:25
+Humidity is: 22.30%
+Temperature is: 72.32°F
+01/26/22  09:00:28
+Humidity is: 22.20%
+Temperature is: 72.32°F
+
+01/26/22  10:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  10:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  10:00:07
+Humidity is: 21.90%
+Temperature is: 73.22°F
+01/26/22  10:00:10
+Humidity is: 22.10%
+Temperature is: 73.22°F
+01/26/22  10:00:13
+Humidity is: 22.10%
+Temperature is: 73.22°F
+01/26/22  10:00:16
+Humidity is: 22.10%
+Temperature is: 73.22°F
+01/26/22  10:00:19
+Humidity is: 22.10%
+Temperature is: 73.40°F
+01/26/22  10:00:22
+Humidity is: 22.10%
+Temperature is: 73.40°F
+01/26/22  10:00:25
+Humidity is: 22.10%
+Temperature is: 73.40°F
+01/26/22  10:00:28
+Humidity is: 22.20%
+Temperature is: 73.40°F
+
+01/26/22  11:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  11:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  11:00:07
+Humidity is: 22.20%
+Temperature is: 72.68°F
+01/26/22  11:00:10
+Humidity is: 22.50%
+Temperature is: 72.68°F
+01/26/22  11:00:13
+Humidity is: 22.50%
+Temperature is: 72.50°F
+01/26/22  11:00:16
+Humidity is: 22.50%
+Temperature is: 72.68°F
+01/26/22  11:00:19
+Humidity is: 22.60%
+Temperature is: 72.68°F
+01/26/22  11:00:22
+Humidity is: 22.50%
+Temperature is: 72.68°F
+01/26/22  11:00:25
+Humidity is: 22.50%
+Temperature is: 72.68°F
+01/26/22  11:00:28
+Humidity is: 22.50%
+Temperature is: 72.68°F
+
+01/26/22  12:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  12:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  12:00:07
+Humidity is: 21.80%
+Temperature is: 72.86°F
+01/26/22  12:00:10
+Humidity is: 22.10%
+Temperature is: 72.86°F
+01/26/22  12:00:13
+Humidity is: 22.10%
+Temperature is: 72.86°F
+01/26/22  12:00:16
+Humidity is: 22.00%
+Temperature is: 72.68°F
+01/26/22  12:00:19
+Humidity is: 22.00%
+Temperature is: 72.68°F
+01/26/22  12:00:22
+Humidity is: 22.00%
+Temperature is: 72.86°F
+01/26/22  12:00:25
+Humidity is: 22.10%
+Temperature is: 72.68°F
+01/26/22  12:00:28
+Humidity is: 22.10%
+Temperature is: 72.86°F
+
+01/26/22  13:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  13:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  13:00:07
+Humidity is: 21.80%
+Temperature is: 72.86°F
+01/26/22  13:00:10
+Humidity is: 22.10%
+Temperature is: 72.86°F
+01/26/22  13:00:13
+Humidity is: 22.10%
+Temperature is: 72.86°F
+01/26/22  13:00:16
+Humidity is: 22.10%
+Temperature is: 72.86°F
+01/26/22  13:00:19
+Humidity is: 22.10%
+Temperature is: 72.86°F
+01/26/22  13:00:22
+Humidity is: 22.10%
+Temperature is: 72.86°F
+01/26/22  13:00:25
+Humidity is: 22.10%
+Temperature is: 72.86°F
+01/26/22  13:00:28
+Humidity is: 22.10%
+Temperature is: 72.86°F
+
+01/26/22  14:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  14:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  14:00:08
+Humidity is: 21.00%
+Temperature is: 73.76°F
+01/26/22  14:00:11
+Humidity is: 21.20%
+Temperature is: 73.76°F
+01/26/22  14:00:14
+Humidity is: 21.20%
+Temperature is: 73.76°F
+01/26/22  14:00:17
+Humidity is: 21.20%
+Temperature is: 73.76°F
+01/26/22  14:00:20
+Humidity is: 21.20%
+Temperature is: 73.76°F
+01/26/22  14:00:23
+Humidity is: 21.10%
+Temperature is: 73.76°F
+01/26/22  14:00:26
+Humidity is: 21.30%
+Temperature is: 73.94°F
+01/26/22  14:00:29
+Humidity is: 21.20%
+Temperature is: 73.76°F
+
+01/26/22  15:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  15:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  15:00:07
+Humidity is: 20.80%
+Temperature is: 73.40°F
+01/26/22  15:00:10
+Humidity is: 21.20%
+Temperature is: 73.40°F
+01/26/22  15:00:13
+Humidity is: 21.20%
+Temperature is: 73.40°F
+01/26/22  15:00:16
+Humidity is: 21.20%
+Temperature is: 73.40°F
+01/26/22  15:00:19
+Humidity is: 21.20%
+Temperature is: 73.22°F
+01/26/22  15:00:22
+Humidity is: 21.30%
+Temperature is: 73.40°F
+01/26/22  15:00:25
+Humidity is: 21.30%
+Temperature is: 73.40°F
+01/26/22  15:00:28
+Humidity is: 21.20%
+Temperature is: 73.22°F
+
+01/26/22  16:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  16:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  16:00:08
+Humidity is: 21.60%
+Temperature is: 73.94°F
+01/26/22  16:00:11
+Humidity is: 21.80%
+Temperature is: 73.76°F
+01/26/22  16:00:14
+Humidity is: 21.90%
+Temperature is: 73.94°F
+01/26/22  16:00:17
+Humidity is: 21.80%
+Temperature is: 73.76°F
+01/26/22  16:00:20
+Humidity is: 21.90%
+Temperature is: 73.94°F
+01/26/22  16:00:23
+Humidity is: 21.90%
+Temperature is: 73.94°F
+01/26/22  16:00:26
+Humidity is: 21.90%
+Temperature is: 73.94°F
+01/26/22  16:00:29
+Humidity is: 21.90%
+Temperature is: 73.76°F
+
+01/26/22  17:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  17:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  17:00:07
+Humidity is: 23.40%
+Temperature is: 73.76°F
+01/26/22  17:00:10
+Humidity is: 23.70%
+Temperature is: 73.76°F
+01/26/22  17:00:13
+Humidity is: 23.60%
+Temperature is: 73.76°F
+01/26/22  17:00:16
+Humidity is: 23.60%
+Temperature is: 73.76°F
+01/26/22  17:00:19
+Humidity is: 23.60%
+Temperature is: 73.76°F
+01/26/22  17:00:22
+Humidity is: 23.60%
+Temperature is: 73.76°F
+01/26/22  17:00:25
+Humidity is: 23.60%
+Temperature is: 73.76°F
+01/26/22  17:00:28
+Humidity is: 23.60%
+Temperature is: 73.76°F
+
+01/26/22  18:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  18:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  18:00:08
+Humidity is: 22.40%
+Temperature is: 73.76°F
+01/26/22  18:00:11
+Humidity is: 22.70%
+Temperature is: 73.76°F
+01/26/22  18:00:14
+Humidity is: 22.70%
+Temperature is: 73.76°F
+01/26/22  18:00:17
+Humidity is: 22.60%
+Temperature is: 73.76°F
+01/26/22  18:00:20
+Humidity is: 22.60%
+Temperature is: 73.76°F
+01/26/22  18:00:23
+Humidity is: 22.70%
+Temperature is: 73.76°F
+01/26/22  18:00:26
+Humidity is: 22.60%
+Temperature is: 73.76°F
+01/26/22  18:00:29
+Humidity is: 22.70%
+Temperature is: 73.76°F
+
+01/26/22  19:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  19:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  19:00:07
+Humidity is: 25.30%
+Temperature is: 74.12°F
+01/26/22  19:00:10
+Humidity is: 25.60%
+Temperature is: 73.94°F
+01/26/22  19:00:13
+Humidity is: 25.50%
+Temperature is: 73.94°F
+01/26/22  19:00:16
+Humidity is: 25.50%
+Temperature is: 73.94°F
+01/26/22  19:00:19
+Humidity is: 25.50%
+Temperature is: 73.94°F
+01/26/22  19:00:22
+Humidity is: 25.50%
+Temperature is: 73.94°F
+01/26/22  19:00:25
+Humidity is: 25.50%
+Temperature is: 73.94°F
+01/26/22  19:00:28
+Humidity is: 25.50%
+Temperature is: 73.94°F
+
+01/26/22  20:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  20:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  20:00:08
+Humidity is: 22.30%
+Temperature is: 73.22°F
+01/26/22  20:00:11
+Humidity is: 22.50%
+Temperature is: 73.04°F
+01/26/22  20:00:14
+Humidity is: 22.50%
+Temperature is: 73.04°F
+01/26/22  20:00:17
+Humidity is: 22.50%
+Temperature is: 73.04°F
+01/26/22  20:00:20
+Humidity is: 22.50%
+Temperature is: 73.04°F
+01/26/22  20:00:23
+Humidity is: 22.40%
+Temperature is: 73.04°F
+01/26/22  20:00:26
+Humidity is: 22.40%
+Temperature is: 73.04°F
+01/26/22  20:00:29
+Humidity is: 22.40%
+Temperature is: 73.04°F
+
+01/26/22  21:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  21:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  21:00:07
+Humidity is: 22.90%
+Temperature is: 72.86°F
+01/26/22  21:00:10
+Humidity is: 23.20%
+Temperature is: 72.68°F
+01/26/22  21:00:13
+Humidity is: 23.20%
+Temperature is: 72.68°F
+01/26/22  21:00:16
+Humidity is: 23.10%
+Temperature is: 72.68°F
+01/26/22  21:00:19
+Humidity is: 23.20%
+Temperature is: 72.68°F
+01/26/22  21:00:22
+Humidity is: 23.10%
+Temperature is: 72.68°F
+01/26/22  21:00:25
+Humidity is: 23.30%
+Temperature is: 72.68°F
+01/26/22  21:00:28
+Humidity is: 23.20%
+Temperature is: 72.68°F
+
+01/26/22  22:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  22:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  22:00:08
+Humidity is: 22.90%
+Temperature is: 72.86°F
+01/26/22  22:00:11
+Humidity is: 23.10%
+Temperature is: 72.68°F
+01/26/22  22:00:14
+Humidity is: 23.10%
+Temperature is: 72.68°F
+01/26/22  22:00:17
+Humidity is: 23.10%
+Temperature is: 72.68°F
+01/26/22  22:00:20
+Humidity is: 23.10%
+Temperature is: 72.68°F
+01/26/22  22:00:23
+Humidity is: 23.10%
+Temperature is: 72.68°F
+01/26/22  22:00:26
+Humidity is: 23.10%
+Temperature is: 72.68°F
+01/26/22  22:00:29
+Humidity is: 23.10%
+Temperature is: 72.68°F
+
+01/26/22  23:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  23:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/26/22  23:00:07
+Humidity is: 22.10%
+Temperature is: 72.68°F
+01/26/22  23:00:10
+Humidity is: 22.40%
+Temperature is: 72.50°F
+01/26/22  23:00:13
+Humidity is: 22.30%
+Temperature is: 72.32°F
+01/26/22  23:00:16
+Humidity is: 22.30%
+Temperature is: 72.50°F
+01/26/22  23:00:19
+Humidity is: 22.40%
+Temperature is: 72.50°F
+01/26/22  23:00:22
+Humidity is: 22.40%
+Temperature is: 72.32°F
+01/26/22  23:00:25
+Humidity is: 22.50%
+Temperature is: 72.32°F
+01/26/22  23:00:28
+Humidity is: 22.50%
+Temperature is: 72.50°F
+
+01/27/22  00:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  00:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  00:00:08
+Humidity is: 20.60%
+Temperature is: 71.60°F
+01/27/22  00:00:11
+Humidity is: 20.80%
+Temperature is: 71.42°F
+01/27/22  00:00:14
+Humidity is: 20.80%
+Temperature is: 71.42°F
+01/27/22  00:00:17
+Humidity is: 20.90%
+Temperature is: 71.42°F
+01/27/22  00:00:20
+Humidity is: 20.80%
+Temperature is: 71.42°F
+01/27/22  00:00:23
+Humidity is: 20.90%
+Temperature is: 71.42°F
+01/27/22  00:00:26
+Humidity is: 20.90%
+Temperature is: 71.42°F
+01/27/22  00:00:29
+Humidity is: 20.90%
+Temperature is: 71.42°F
+
+01/27/22  01:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  01:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  01:00:07
+Humidity is: 20.30%
+Temperature is: 71.60°F
+01/27/22  01:00:10
+Humidity is: 20.50%
+Temperature is: 71.60°F
+01/27/22  01:00:13
+Humidity is: 20.50%
+Temperature is: 71.42°F
+01/27/22  01:00:16
+Humidity is: 20.50%
+Temperature is: 71.42°F
+01/27/22  01:00:19
+Humidity is: 20.60%
+Temperature is: 71.60°F
+01/27/22  01:00:22
+Humidity is: 20.50%
+Temperature is: 71.42°F
+01/27/22  01:00:25
+Humidity is: 20.50%
+Temperature is: 71.42°F
+01/27/22  01:00:28
+Humidity is: 20.60%
+Temperature is: 71.60°F
+
+01/27/22  02:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  02:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  02:00:08
+Humidity is: 19.80%
+Temperature is: 71.60°F
+01/27/22  02:00:11
+Humidity is: 20.10%
+Temperature is: 71.60°F
+01/27/22  02:00:14
+Humidity is: 20.10%
+Temperature is: 71.60°F
+01/27/22  02:00:17
+Humidity is: 20.20%
+Temperature is: 71.60°F
+01/27/22  02:00:20
+Humidity is: 20.20%
+Temperature is: 71.60°F
+01/27/22  02:00:23
+Humidity is: 20.10%
+Temperature is: 71.42°F
+01/27/22  02:00:26
+Humidity is: 20.30%
+Temperature is: 71.60°F
+01/27/22  02:00:29
+Humidity is: 20.30%
+Temperature is: 71.60°F
+
+01/27/22  03:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  03:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  03:00:07
+Humidity is: 19.40%
+Temperature is: 71.24°F
+01/27/22  03:00:10
+Humidity is: 19.70%
+Temperature is: 71.06°F
+01/27/22  03:00:13
+Humidity is: 19.60%
+Temperature is: 71.06°F
+01/27/22  03:00:16
+Humidity is: 19.60%
+Temperature is: 71.06°F
+01/27/22  03:00:19
+Humidity is: 19.60%
+Temperature is: 71.06°F
+01/27/22  03:00:22
+Humidity is: 19.60%
+Temperature is: 71.06°F
+01/27/22  03:00:25
+Humidity is: 19.60%
+Temperature is: 71.06°F
+01/27/22  03:00:28
+Humidity is: 19.50%
+Temperature is: 71.06°F
+
+01/27/22  04:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  04:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  04:00:08
+Humidity is: 19.50%
+Temperature is: 71.06°F
+01/27/22  04:00:11
+Humidity is: 19.80%
+Temperature is: 71.06°F
+01/27/22  04:00:14
+Humidity is: 19.80%
+Temperature is: 71.06°F
+01/27/22  04:00:17
+Humidity is: 19.80%
+Temperature is: 71.06°F
+01/27/22  04:00:20
+Humidity is: 19.80%
+Temperature is: 71.06°F
+01/27/22  04:00:23
+Humidity is: 19.80%
+Temperature is: 71.06°F
+01/27/22  04:00:26
+Humidity is: 19.80%
+Temperature is: 71.06°F
+01/27/22  04:00:29
+Humidity is: 19.90%
+Temperature is: 71.06°F
+
+01/27/22  05:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  05:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  05:00:07
+Humidity is: 19.40%
+Temperature is: 71.06°F
+01/27/22  05:00:10
+Humidity is: 19.70%
+Temperature is: 70.88°F
+01/27/22  05:00:13
+Humidity is: 19.70%
+Temperature is: 70.88°F
+01/27/22  05:00:16
+Humidity is: 19.70%
+Temperature is: 70.88°F
+01/27/22  05:00:19
+Humidity is: 19.80%
+Temperature is: 71.06°F
+01/27/22  05:00:22
+Humidity is: 19.70%
+Temperature is: 71.06°F
+01/27/22  05:00:25
+Humidity is: 19.70%
+Temperature is: 70.88°F
+01/27/22  05:00:28
+Humidity is: 19.70%
+Temperature is: 71.06°F
+
+01/27/22  06:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  06:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  06:00:08
+Humidity is: 19.20%
+Temperature is: 71.06°F
+01/27/22  06:00:11
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  06:00:14
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  06:00:17
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  06:00:20
+Humidity is: 19.60%
+Temperature is: 70.88°F
+01/27/22  06:00:23
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  06:00:26
+Humidity is: 19.50%
+Temperature is: 71.06°F
+01/27/22  06:00:29
+Humidity is: 19.60%
+Temperature is: 71.06°F
+
+01/27/22  07:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  07:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  07:00:07
+Humidity is: 19.20%
+Temperature is: 70.88°F
+01/27/22  07:00:10
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  07:00:13
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  07:00:16
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  07:00:19
+Humidity is: 19.60%
+Temperature is: 70.88°F
+01/27/22  07:00:22
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  07:00:25
+Humidity is: 19.50%
+Temperature is: 70.88°F
+01/27/22  07:00:28
+Humidity is: 19.40%
+Temperature is: 70.88°F
+
+01/27/22  08:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  08:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  08:00:08
+Humidity is: 18.70%
+Temperature is: 73.94°F
+01/27/22  08:00:11
+Humidity is: 19.00%
+Temperature is: 73.76°F
+01/27/22  08:00:14
+Humidity is: 19.00%
+Temperature is: 73.76°F
+01/27/22  08:00:17
+Humidity is: 19.00%
+Temperature is: 73.76°F
+01/27/22  08:00:20
+Humidity is: 17.70%
+Temperature is: 73.76°F
+01/27/22  08:00:23
+Humidity is: 19.00%
+Temperature is: 73.76°F
+01/27/22  08:00:26
+Humidity is: 19.00%
+Temperature is: 73.76°F
+01/27/22  08:00:29
+Humidity is: 19.00%
+Temperature is: 73.76°F
+
+01/27/22  09:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  09:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  09:00:07
+Humidity is: 20.40%
+Temperature is: 71.78°F
+01/27/22  09:00:10
+Humidity is: 20.70%
+Temperature is: 71.78°F
+01/27/22  09:00:13
+Humidity is: 20.60%
+Temperature is: 71.78°F
+01/27/22  09:00:16
+Humidity is: 20.60%
+Temperature is: 71.78°F
+01/27/22  09:00:19
+Humidity is: 20.60%
+Temperature is: 71.78°F
+01/27/22  09:00:22
+Humidity is: 20.70%
+Temperature is: 71.78°F
+01/27/22  09:00:25
+Humidity is: 20.70%
+Temperature is: 71.78°F
+01/27/22  09:00:28
+Humidity is: 20.70%
+Temperature is: 71.78°F
+
+01/27/22  10:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  10:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  10:00:08
+Humidity is: 20.40%
+Temperature is: 72.32°F
+01/27/22  10:00:11
+Humidity is: 20.70%
+Temperature is: 72.32°F
+01/27/22  10:00:14
+Humidity is: 20.70%
+Temperature is: 72.14°F
+01/27/22  10:00:17
+Humidity is: 20.70%
+Temperature is: 72.14°F
+01/27/22  10:00:20
+Humidity is: 20.80%
+Temperature is: 72.32°F
+01/27/22  10:00:23
+Humidity is: 20.70%
+Temperature is: 72.32°F
+01/27/22  10:00:26
+Humidity is: 20.70%
+Temperature is: 72.32°F
+01/27/22  10:00:29
+Humidity is: 20.70%
+Temperature is: 72.32°F
+
+01/27/22  11:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  11:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  11:00:07
+Humidity is: 21.30%
+Temperature is: 72.86°F
+01/27/22  11:00:10
+Humidity is: 21.60%
+Temperature is: 72.68°F
+01/27/22  11:00:13
+Humidity is: 21.60%
+Temperature is: 72.68°F
+01/27/22  11:00:16
+Humidity is: 21.60%
+Temperature is: 72.68°F
+01/27/22  11:00:19
+Humidity is: 21.60%
+Temperature is: 72.68°F
+01/27/22  11:00:22
+Humidity is: 21.60%
+Temperature is: 72.68°F
+01/27/22  11:00:25
+Humidity is: 21.60%
+Temperature is: 72.68°F
+01/27/22  11:00:28
+Humidity is: 21.60%
+Temperature is: 72.68°F
+
+01/27/22  12:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  12:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  12:00:08
+Humidity is: 21.60%
+Temperature is: 72.32°F
+01/27/22  12:00:11
+Humidity is: 21.90%
+Temperature is: 72.14°F
+01/27/22  12:00:14
+Humidity is: 21.80%
+Temperature is: 72.14°F
+01/27/22  12:00:17
+Humidity is: 21.90%
+Temperature is: 72.14°F
+01/27/22  12:00:20
+Humidity is: 21.90%
+Temperature is: 72.14°F
+01/27/22  12:00:23
+Humidity is: 21.90%
+Temperature is: 72.14°F
+01/27/22  12:00:26
+Humidity is: 21.90%
+Temperature is: 72.14°F
+01/27/22  12:00:29
+Humidity is: 21.90%
+Temperature is: 72.14°F
+
+01/27/22  13:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  13:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  13:00:07
+Humidity is: 21.60%
+Temperature is: 72.68°F
+01/27/22  13:00:10
+Humidity is: 21.80%
+Temperature is: 72.50°F
+01/27/22  13:00:13
+Humidity is: 21.60%
+Temperature is: 72.50°F
+01/27/22  13:00:16
+Humidity is: 21.80%
+Temperature is: 72.50°F
+01/27/22  13:00:19
+Humidity is: 21.90%
+Temperature is: 72.50°F
+01/27/22  13:00:22
+Humidity is: 21.80%
+Temperature is: 72.50°F
+01/27/22  13:00:25
+Humidity is: 21.80%
+Temperature is: 72.50°F
+01/27/22  13:00:28
+Humidity is: 21.80%
+Temperature is: 72.50°F
+
+01/27/22  14:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  14:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  14:00:08
+Humidity is: 23.60%
+Temperature is: 72.86°F
+01/27/22  14:00:11
+Humidity is: 23.80%
+Temperature is: 72.86°F
+01/27/22  14:00:14
+Humidity is: 23.90%
+Temperature is: 72.86°F
+01/27/22  14:00:17
+Humidity is: 23.80%
+Temperature is: 72.86°F
+01/27/22  14:00:20
+Humidity is: 23.80%
+Temperature is: 72.86°F
+01/27/22  14:00:23
+Humidity is: 23.80%
+Temperature is: 72.86°F
+01/27/22  14:00:26
+Humidity is: 23.80%
+Temperature is: 72.86°F
+01/27/22  14:00:29
+Humidity is: 23.70%
+Temperature is: 72.86°F
+
+01/27/22  15:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  15:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  15:00:07
+Humidity is: 23.80%
+Temperature is: 74.30°F
+01/27/22  15:00:10
+Humidity is: 24.10%
+Temperature is: 74.30°F
+01/27/22  15:00:13
+Humidity is: 24.10%
+Temperature is: 74.30°F
+01/27/22  15:00:16
+Humidity is: 24.10%
+Temperature is: 74.12°F
+01/27/22  15:00:19
+Humidity is: 24.10%
+Temperature is: 74.30°F
+01/27/22  15:00:22
+Humidity is: 24.00%
+Temperature is: 74.12°F
+01/27/22  15:00:25
+Humidity is: 24.00%
+Temperature is: 74.12°F
+01/27/22  15:00:28
+Humidity is: 24.00%
+Temperature is: 74.12°F
+
+01/27/22  16:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  16:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  16:00:08
+Humidity is: 24.30%
+Temperature is: 73.40°F
+01/27/22  16:00:11
+Humidity is: 24.60%
+Temperature is: 73.40°F
+01/27/22  16:00:14
+Humidity is: 24.50%
+Temperature is: 73.40°F
+01/27/22  16:00:17
+Humidity is: 24.50%
+Temperature is: 73.40°F
+01/27/22  16:00:20
+Humidity is: 24.50%
+Temperature is: 73.40°F
+01/27/22  16:00:23
+Humidity is: 24.60%
+Temperature is: 73.40°F
+01/27/22  16:00:26
+Humidity is: 24.70%
+Temperature is: 73.40°F
+01/27/22  16:00:29
+Humidity is: 24.60%
+Temperature is: 73.40°F
+
+01/27/22  17:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  17:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  17:00:07
+Humidity is: 23.10%
+Temperature is: 73.40°F
+01/27/22  17:00:10
+Humidity is: 23.40%
+Temperature is: 73.22°F
+01/27/22  17:00:13
+Humidity is: 23.40%
+Temperature is: 73.22°F
+01/27/22  17:00:16
+Humidity is: 23.30%
+Temperature is: 73.22°F
+01/27/22  17:00:19
+Humidity is: 23.40%
+Temperature is: 73.22°F
+01/27/22  17:00:22
+Humidity is: 23.40%
+Temperature is: 73.22°F
+01/27/22  17:00:25
+Humidity is: 23.40%
+Temperature is: 73.22°F
+01/27/22  17:00:28
+Humidity is: 23.40%
+Temperature is: 73.22°F
+
+01/27/22  18:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  18:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  18:00:08
+Humidity is: 25.70%
+Temperature is: 73.40°F
+01/27/22  18:00:11
+Humidity is: 25.90%
+Temperature is: 73.40°F
+01/27/22  18:00:14
+Humidity is: 25.90%
+Temperature is: 73.40°F
+01/27/22  18:00:17
+Humidity is: 25.90%
+Temperature is: 73.40°F
+01/27/22  18:00:20
+Humidity is: 25.90%
+Temperature is: 73.40°F
+01/27/22  18:00:23
+Humidity is: 25.90%
+Temperature is: 73.40°F
+01/27/22  18:00:26
+Humidity is: 25.80%
+Temperature is: 73.40°F
+01/27/22  18:00:29
+Humidity is: 25.80%
+Temperature is: 73.22°F
+
+01/27/22  19:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  19:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  19:00:07
+Humidity is: 24.20%
+Temperature is: 73.58°F
+01/27/22  19:00:10
+Humidity is: 24.50%
+Temperature is: 73.58°F
+01/27/22  19:00:13
+Humidity is: 24.40%
+Temperature is: 73.58°F
+01/27/22  19:00:16
+Humidity is: 24.40%
+Temperature is: 73.58°F
+01/27/22  19:00:19
+Humidity is: 24.40%
+Temperature is: 73.58°F
+01/27/22  19:00:22
+Humidity is: 24.40%
+Temperature is: 73.58°F
+01/27/22  19:00:25
+Humidity is: 24.50%
+Temperature is: 73.58°F
+01/27/22  19:00:28
+Humidity is: 24.50%
+Temperature is: 73.58°F
+
+01/27/22  20:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  20:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  20:00:08
+Humidity is: 22.00%
+Temperature is: 72.68°F
+01/27/22  20:00:11
+Humidity is: 22.20%
+Temperature is: 72.50°F
+01/27/22  20:00:14
+Humidity is: 22.30%
+Temperature is: 72.50°F
+01/27/22  20:00:17
+Humidity is: 22.30%
+Temperature is: 72.50°F
+01/27/22  20:00:20
+Humidity is: 22.40%
+Temperature is: 72.50°F
+01/27/22  20:00:23
+Humidity is: 22.40%
+Temperature is: 72.50°F
+01/27/22  20:00:26
+Humidity is: 22.40%
+Temperature is: 72.50°F
+01/27/22  20:00:29
+Humidity is: 22.50%
+Temperature is: 72.50°F
+
+01/27/22  21:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  21:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  21:00:07
+Humidity is: 22.70%
+Temperature is: 73.58°F
+01/27/22  21:00:10
+Humidity is: 23.00%
+Temperature is: 73.58°F
+01/27/22  21:00:13
+Humidity is: 23.00%
+Temperature is: 73.58°F
+01/27/22  21:00:16
+Humidity is: 23.00%
+Temperature is: 73.58°F
+01/27/22  21:00:19
+Humidity is: 23.00%
+Temperature is: 73.58°F
+01/27/22  21:00:22
+Humidity is: 23.00%
+Temperature is: 73.58°F
+01/27/22  21:00:25
+Humidity is: 23.00%
+Temperature is: 73.58°F
+01/27/22  21:00:28
+Humidity is: 23.10%
+Temperature is: 73.58°F
+
+01/27/22  22:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  22:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  22:00:08
+Humidity is: 22.70%
+Temperature is: 72.68°F
+01/27/22  22:00:11
+Humidity is: 23.00%
+Temperature is: 72.50°F
+01/27/22  22:00:14
+Humidity is: 23.00%
+Temperature is: 72.68°F
+01/27/22  22:00:17
+Humidity is: 22.90%
+Temperature is: 72.50°F
+01/27/22  22:00:20
+Humidity is: 22.90%
+Temperature is: 72.50°F
+01/27/22  22:00:23
+Humidity is: 23.00%
+Temperature is: 72.50°F
+01/27/22  22:00:26
+Humidity is: 23.00%
+Temperature is: 72.50°F
+01/27/22  22:00:29
+Humidity is: 23.00%
+Temperature is: 72.50°F
+
+01/27/22  23:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  23:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/27/22  23:00:07
+Humidity is: 22.90%
+Temperature is: 72.32°F
+01/27/22  23:00:10
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/27/22  23:00:13
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/27/22  23:00:16
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/27/22  23:00:19
+Humidity is: 23.40%
+Temperature is: 72.32°F
+01/27/22  23:00:22
+Humidity is: 23.20%
+Temperature is: 72.14°F
+01/27/22  23:00:25
+Humidity is: 23.20%
+Temperature is: 72.14°F
+01/27/22  23:00:28
+Humidity is: 23.30%
+Temperature is: 72.32°F
+
+01/28/22  00:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  00:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  00:00:08
+Humidity is: 22.50%
+Temperature is: 71.78°F
+01/28/22  00:00:11
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/28/22  00:00:14
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/28/22  00:00:17
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/28/22  00:00:20
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/28/22  00:00:23
+Humidity is: 22.50%
+Temperature is: 71.42°F
+01/28/22  00:00:26
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/28/22  00:00:29
+Humidity is: 22.60%
+Temperature is: 71.60°F
+
+01/28/22  01:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  01:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  01:00:07
+Humidity is: 21.50%
+Temperature is: 71.42°F
+01/28/22  01:00:10
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  01:00:13
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  01:00:16
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  01:00:19
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  01:00:22
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  01:00:25
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  01:00:28
+Humidity is: 21.80%
+Temperature is: 71.42°F
+
+01/28/22  02:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  02:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  02:00:07
+Humidity is: 21.60%
+Temperature is: 71.60°F
+01/28/22  02:00:11
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  02:00:14
+Humidity is: 21.80%
+Temperature is: 71.60°F
+01/28/22  02:00:17
+Humidity is: 21.80%
+Temperature is: 71.60°F
+01/28/22  02:00:20
+Humidity is: 21.70%
+Temperature is: 71.42°F
+01/28/22  02:00:23
+Humidity is: 21.80%
+Temperature is: 71.60°F
+01/28/22  02:00:26
+Humidity is: 21.80%
+Temperature is: 71.60°F
+01/28/22  02:00:29
+Humidity is: 21.80%
+Temperature is: 71.42°F
+
+01/28/22  03:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  03:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  03:00:07
+Humidity is: 21.10%
+Temperature is: 71.96°F
+01/28/22  03:00:10
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  03:00:13
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  03:00:16
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  03:00:19
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  03:00:22
+Humidity is: 21.20%
+Temperature is: 71.78°F
+01/28/22  03:00:25
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  03:00:28
+Humidity is: 21.30%
+Temperature is: 71.78°F
+
+01/28/22  04:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  04:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  04:00:08
+Humidity is: 21.60%
+Temperature is: 71.60°F
+01/28/22  04:00:11
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  04:00:14
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  04:00:17
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  04:00:20
+Humidity is: 21.90%
+Temperature is: 71.42°F
+01/28/22  04:00:23
+Humidity is: 21.70%
+Temperature is: 71.42°F
+01/28/22  04:00:26
+Humidity is: 21.70%
+Temperature is: 71.42°F
+01/28/22  04:00:29
+Humidity is: 21.70%
+Temperature is: 71.42°F
+
+01/28/22  05:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  05:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  05:00:07
+Humidity is: 21.00%
+Temperature is: 71.96°F
+01/28/22  05:00:10
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  05:00:13
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  05:00:16
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  05:00:19
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  05:00:22
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  05:00:25
+Humidity is: 21.30%
+Temperature is: 71.78°F
+01/28/22  05:00:28
+Humidity is: 21.40%
+Temperature is: 71.78°F
+
+01/28/22  06:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  06:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  06:00:07
+Humidity is: 21.40%
+Temperature is: 71.60°F
+01/28/22  06:00:10
+Humidity is: 21.60%
+Temperature is: 71.42°F
+01/28/22  06:00:14
+Humidity is: 21.60%
+Temperature is: 71.42°F
+01/28/22  06:00:17
+Humidity is: 21.60%
+Temperature is: 71.42°F
+01/28/22  06:00:20
+Humidity is: 21.60%
+Temperature is: 71.42°F
+01/28/22  06:00:23
+Humidity is: 21.70%
+Temperature is: 71.42°F
+01/28/22  06:00:26
+Humidity is: 21.60%
+Temperature is: 71.42°F
+01/28/22  06:00:29
+Humidity is: 21.60%
+Temperature is: 71.42°F
+
+01/28/22  07:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  07:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  07:00:07
+Humidity is: 21.50%
+Temperature is: 71.42°F
+01/28/22  07:00:10
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  07:00:13
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  07:00:16
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  07:00:19
+Humidity is: 21.90%
+Temperature is: 71.42°F
+01/28/22  07:00:22
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  07:00:25
+Humidity is: 21.70%
+Temperature is: 71.42°F
+01/28/22  07:00:28
+Humidity is: 21.70%
+Temperature is: 71.42°F
+
+01/28/22  08:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  08:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  08:00:08
+Humidity is: 21.60%
+Temperature is: 71.60°F
+01/28/22  08:00:11
+Humidity is: 21.80%
+Temperature is: 71.60°F
+01/28/22  08:00:14
+Humidity is: 21.70%
+Temperature is: 71.42°F
+01/28/22  08:00:17
+Humidity is: 21.80%
+Temperature is: 71.60°F
+01/28/22  08:00:20
+Humidity is: 21.80%
+Temperature is: 71.42°F
+01/28/22  08:00:23
+Humidity is: 21.80%
+Temperature is: 71.60°F
+01/28/22  08:00:26
+Humidity is: 21.80%
+Temperature is: 71.60°F
+01/28/22  08:00:29
+Humidity is: 21.70%
+Temperature is: 71.60°F
+
+01/28/22  09:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  09:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  09:00:07
+Humidity is: 22.10%
+Temperature is: 71.42°F
+01/28/22  09:00:10
+Humidity is: 22.40%
+Temperature is: 71.24°F
+01/28/22  09:00:13
+Humidity is: 22.50%
+Temperature is: 71.42°F
+01/28/22  09:00:16
+Humidity is: 22.50%
+Temperature is: 71.24°F
+01/28/22  09:00:19
+Humidity is: 22.40%
+Temperature is: 71.24°F
+01/28/22  09:00:22
+Humidity is: 22.40%
+Temperature is: 71.24°F
+01/28/22  09:00:25
+Humidity is: 22.40%
+Temperature is: 71.24°F
+01/28/22  09:00:28
+Humidity is: 22.40%
+Temperature is: 71.24°F
+
+01/28/22  10:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  10:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  10:00:08
+Humidity is: 23.00%
+Temperature is: 72.14°F
+01/28/22  10:00:11
+Humidity is: 23.10%
+Temperature is: 71.96°F
+01/28/22  10:00:14
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/28/22  10:00:17
+Humidity is: 23.10%
+Temperature is: 71.96°F
+01/28/22  10:00:20
+Humidity is: 23.20%
+Temperature is: 71.96°F
+01/28/22  10:00:23
+Humidity is: 23.10%
+Temperature is: 71.96°F
+01/28/22  10:00:26
+Humidity is: 23.10%
+Temperature is: 71.96°F
+01/28/22  10:00:29
+Humidity is: 23.20%
+Temperature is: 71.96°F
+
+01/28/22  11:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  11:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  11:00:07
+Humidity is: 23.40%
+Temperature is: 72.32°F
+01/28/22  11:00:10
+Humidity is: 23.60%
+Temperature is: 72.32°F
+01/28/22  11:00:13
+Humidity is: 23.60%
+Temperature is: 72.32°F
+01/28/22  11:00:16
+Humidity is: 23.60%
+Temperature is: 72.32°F
+01/28/22  11:00:19
+Humidity is: 23.60%
+Temperature is: 72.32°F
+01/28/22  11:00:22
+Humidity is: 23.60%
+Temperature is: 72.32°F
+01/28/22  11:00:25
+Humidity is: 23.60%
+Temperature is: 72.32°F
+01/28/22  11:00:28
+Humidity is: 23.60%
+Temperature is: 72.32°F
+
+01/28/22  12:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  12:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  12:00:07
+Humidity is: 23.00%
+Temperature is: 72.32°F
+01/28/22  12:00:11
+Humidity is: 23.30%
+Temperature is: 72.14°F
+01/28/22  12:00:14
+Humidity is: 23.20%
+Temperature is: 72.14°F
+01/28/22  12:00:17
+Humidity is: 23.20%
+Temperature is: 72.14°F
+01/28/22  12:00:20
+Humidity is: 23.30%
+Temperature is: 72.32°F
+01/28/22  12:00:23
+Humidity is: 23.30%
+Temperature is: 72.14°F
+01/28/22  12:00:26
+Humidity is: 23.30%
+Temperature is: 72.32°F
+01/28/22  12:00:29
+Humidity is: 23.30%
+Temperature is: 72.14°F
+
+01/28/22  13:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  13:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  13:00:07
+Humidity is: 23.90%
+Temperature is: 72.50°F
+01/28/22  13:00:10
+Humidity is: 24.20%
+Temperature is: 72.50°F
+01/28/22  13:00:13
+Humidity is: 24.10%
+Temperature is: 72.50°F
+01/28/22  13:00:16
+Humidity is: 24.10%
+Temperature is: 72.50°F
+01/28/22  13:00:19
+Humidity is: 24.10%
+Temperature is: 72.50°F
+01/28/22  13:00:22
+Humidity is: 24.10%
+Temperature is: 72.50°F
+01/28/22  13:00:25
+Humidity is: 24.10%
+Temperature is: 72.50°F
+01/28/22  13:00:28
+Humidity is: 24.10%
+Temperature is: 72.50°F
+
+01/28/22  14:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  14:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  14:00:07
+Humidity is: 24.50%
+Temperature is: 72.86°F
+01/28/22  14:00:10
+Humidity is: 24.80%
+Temperature is: 72.68°F
+01/28/22  14:00:13
+Humidity is: 24.70%
+Temperature is: 72.68°F
+01/28/22  14:00:17
+Humidity is: 24.80%
+Temperature is: 72.68°F
+01/28/22  14:00:20
+Humidity is: 24.80%
+Temperature is: 72.68°F
+01/28/22  14:00:23
+Humidity is: 24.70%
+Temperature is: 72.68°F
+01/28/22  14:00:26
+Humidity is: 24.90%
+Temperature is: 72.68°F
+01/28/22  14:00:29
+Humidity is: 24.80%
+Temperature is: 72.68°F
+
+01/28/22  15:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  15:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  15:00:07
+Humidity is: 24.20%
+Temperature is: 72.86°F
+01/28/22  15:00:10
+Humidity is: 24.50%
+Temperature is: 72.68°F
+01/28/22  15:00:13
+Humidity is: 24.50%
+Temperature is: 72.68°F
+01/28/22  15:00:16
+Humidity is: 24.40%
+Temperature is: 72.68°F
+01/28/22  15:00:19
+Humidity is: 24.50%
+Temperature is: 72.68°F
+01/28/22  15:00:22
+Humidity is: 24.40%
+Temperature is: 72.68°F
+01/28/22  15:00:25
+Humidity is: 24.50%
+Temperature is: 72.68°F
+01/28/22  15:00:28
+Humidity is: 24.50%
+Temperature is: 72.68°F
+
+01/28/22  16:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  16:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  16:00:07
+Humidity is: 24.10%
+Temperature is: 73.04°F
+01/28/22  16:00:10
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/28/22  16:00:13
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/28/22  16:00:16
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/28/22  16:00:20
+Humidity is: 24.40%
+Temperature is: 72.86°F
+01/28/22  16:00:23
+Humidity is: 24.40%
+Temperature is: 72.86°F
+01/28/22  16:00:26
+Humidity is: 24.40%
+Temperature is: 72.86°F
+01/28/22  16:00:29
+Humidity is: 24.40%
+Temperature is: 72.86°F
+
+01/28/22  17:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  17:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  17:00:07
+Humidity is: 24.10%
+Temperature is: 73.04°F
+01/28/22  17:00:10
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/28/22  17:00:13
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/28/22  17:00:16
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/28/22  17:00:19
+Humidity is: 24.40%
+Temperature is: 72.86°F
+01/28/22  17:00:22
+Humidity is: 24.40%
+Temperature is: 72.86°F
+01/28/22  17:00:25
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/28/22  17:00:28
+Humidity is: 24.30%
+Temperature is: 72.86°F
+
+01/28/22  18:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  18:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  18:00:07
+Humidity is: 23.90%
+Temperature is: 73.04°F
+01/28/22  18:00:10
+Humidity is: 24.20%
+Temperature is: 73.04°F
+01/28/22  18:00:13
+Humidity is: 24.20%
+Temperature is: 73.04°F
+01/28/22  18:00:16
+Humidity is: 24.10%
+Temperature is: 72.86°F
+01/28/22  18:00:19
+Humidity is: 24.10%
+Temperature is: 72.86°F
+01/28/22  18:00:22
+Humidity is: 24.10%
+Temperature is: 72.86°F
+01/28/22  18:00:26
+Humidity is: 24.10%
+Temperature is: 73.04°F
+01/28/22  18:00:29
+Humidity is: 24.10%
+Temperature is: 72.86°F
+
+01/28/22  19:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  19:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  19:00:07
+Humidity is: 24.20%
+Temperature is: 73.22°F
+01/28/22  19:00:10
+Humidity is: 24.40%
+Temperature is: 73.04°F
+01/28/22  19:00:13
+Humidity is: 24.40%
+Temperature is: 73.04°F
+01/28/22  19:00:16
+Humidity is: 24.40%
+Temperature is: 73.04°F
+01/28/22  19:00:19
+Humidity is: 24.40%
+Temperature is: 73.04°F
+01/28/22  19:00:22
+Humidity is: 24.50%
+Temperature is: 73.04°F
+01/28/22  19:00:25
+Humidity is: 24.40%
+Temperature is: 73.04°F
+01/28/22  19:00:28
+Humidity is: 24.40%
+Temperature is: 73.04°F
+
+01/28/22  20:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  20:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  20:00:07
+Humidity is: 26.10%
+Temperature is: 73.76°F
+01/28/22  20:00:10
+Humidity is: 26.30%
+Temperature is: 73.58°F
+01/28/22  20:00:13
+Humidity is: 26.60%
+Temperature is: 73.58°F
+01/28/22  20:00:16
+Humidity is: 26.30%
+Temperature is: 73.58°F
+01/28/22  20:00:19
+Humidity is: 26.40%
+Temperature is: 73.58°F
+01/28/22  20:00:22
+Humidity is: 26.40%
+Temperature is: 73.58°F
+01/28/22  20:00:25
+Humidity is: 26.40%
+Temperature is: 73.58°F
+01/28/22  20:00:28
+Humidity is: 26.30%
+Temperature is: 73.58°F
+
+01/28/22  21:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  21:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  21:00:07
+Humidity is: 25.60%
+Temperature is: 73.22°F
+01/28/22  21:00:10
+Humidity is: 25.90%
+Temperature is: 73.22°F
+01/28/22  21:00:13
+Humidity is: 25.90%
+Temperature is: 73.22°F
+01/28/22  21:00:16
+Humidity is: 25.90%
+Temperature is: 73.22°F
+01/28/22  21:00:19
+Humidity is: 25.90%
+Temperature is: 73.04°F
+01/28/22  21:00:22
+Humidity is: 25.90%
+Temperature is: 73.04°F
+01/28/22  21:00:25
+Humidity is: 25.90%
+Temperature is: 73.04°F
+01/28/22  21:00:28
+Humidity is: 26.00%
+Temperature is: 73.04°F
+
+01/28/22  22:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  22:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  22:00:07
+Humidity is: 26.90%
+Temperature is: 72.68°F
+01/28/22  22:00:10
+Humidity is: 27.20%
+Temperature is: 72.50°F
+01/28/22  22:00:13
+Humidity is: 27.20%
+Temperature is: 72.68°F
+01/28/22  22:00:16
+Humidity is: 27.20%
+Temperature is: 72.68°F
+01/28/22  22:00:19
+Humidity is: 27.10%
+Temperature is: 72.50°F
+01/28/22  22:00:22
+Humidity is: 27.10%
+Temperature is: 72.50°F
+01/28/22  22:00:25
+Humidity is: 27.10%
+Temperature is: 72.50°F
+01/28/22  22:00:28
+Humidity is: 27.20%
+Temperature is: 72.68°F
+
+01/28/22  23:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  23:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/28/22  23:00:07
+Humidity is: 26.40%
+Temperature is: 72.68°F
+01/28/22  23:00:10
+Humidity is: 26.70%
+Temperature is: 72.68°F
+01/28/22  23:00:13
+Humidity is: 26.70%
+Temperature is: 72.68°F
+01/28/22  23:00:16
+Humidity is: 26.60%
+Temperature is: 72.50°F
+01/28/22  23:00:19
+Humidity is: 26.70%
+Temperature is: 72.50°F
+01/28/22  23:00:22
+Humidity is: 26.70%
+Temperature is: 72.68°F
+01/28/22  23:00:25
+Humidity is: 26.70%
+Temperature is: 72.50°F
+01/28/22  23:00:28
+Humidity is: 26.60%
+Temperature is: 72.50°F
+
+01/29/22  00:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  00:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  00:00:07
+Humidity is: 26.80%
+Temperature is: 72.86°F
+01/29/22  00:00:10
+Humidity is: 27.00%
+Temperature is: 72.86°F
+01/29/22  00:00:13
+Humidity is: 26.90%
+Temperature is: 72.68°F
+01/29/22  00:00:16
+Humidity is: 27.00%
+Temperature is: 72.86°F
+01/29/22  00:00:19
+Humidity is: 27.00%
+Temperature is: 72.68°F
+01/29/22  00:00:22
+Humidity is: 27.00%
+Temperature is: 72.68°F
+01/29/22  00:00:25
+Humidity is: 27.00%
+Temperature is: 72.68°F
+01/29/22  00:00:28
+Humidity is: 27.00%
+Temperature is: 72.68°F
+
+01/29/22  01:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  01:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  01:00:07
+Humidity is: 26.20%
+Temperature is: 72.32°F
+01/29/22  01:00:10
+Humidity is: 26.40%
+Temperature is: 72.14°F
+01/29/22  01:00:13
+Humidity is: 26.40%
+Temperature is: 72.14°F
+01/29/22  01:00:16
+Humidity is: 26.40%
+Temperature is: 72.14°F
+01/29/22  01:00:19
+Humidity is: 26.40%
+Temperature is: 72.14°F
+01/29/22  01:00:22
+Humidity is: 26.40%
+Temperature is: 72.14°F
+01/29/22  01:00:25
+Humidity is: 26.30%
+Temperature is: 72.14°F
+01/29/22  01:00:28
+Humidity is: 26.30%
+Temperature is: 71.96°F
+
+01/29/22  02:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  02:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  02:00:07
+Humidity is: 24.50%
+Temperature is: 71.78°F
+01/29/22  02:00:10
+Humidity is: 24.70%
+Temperature is: 71.78°F
+01/29/22  02:00:13
+Humidity is: 24.70%
+Temperature is: 71.60°F
+01/29/22  02:00:16
+Humidity is: 24.70%
+Temperature is: 71.78°F
+01/29/22  02:00:19
+Humidity is: 24.70%
+Temperature is: 71.78°F
+01/29/22  02:00:22
+Humidity is: 24.70%
+Temperature is: 71.60°F
+01/29/22  02:00:25
+Humidity is: 24.60%
+Temperature is: 71.60°F
+01/29/22  02:00:28
+Humidity is: 24.70%
+Temperature is: 71.78°F
+
+01/29/22  03:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  03:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  03:00:07
+Humidity is: 23.80%
+Temperature is: 71.96°F
+01/29/22  03:00:10
+Humidity is: 24.00%
+Temperature is: 71.78°F
+01/29/22  03:00:13
+Humidity is: 24.00%
+Temperature is: 71.78°F
+01/29/22  03:00:16
+Humidity is: 24.10%
+Temperature is: 71.78°F
+01/29/22  03:00:19
+Humidity is: 24.10%
+Temperature is: 71.78°F
+01/29/22  03:00:22
+Humidity is: 24.10%
+Temperature is: 71.78°F
+01/29/22  03:00:25
+Humidity is: 24.10%
+Temperature is: 71.78°F
+01/29/22  03:00:28
+Humidity is: 24.10%
+Temperature is: 71.78°F
+
+01/29/22  04:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  04:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  04:00:07
+Humidity is: 23.40%
+Temperature is: 71.96°F
+01/29/22  04:00:10
+Humidity is: 23.60%
+Temperature is: 71.78°F
+01/29/22  04:00:13
+Humidity is: 23.60%
+Temperature is: 71.78°F
+01/29/22  04:00:16
+Humidity is: 23.60%
+Temperature is: 71.78°F
+01/29/22  04:00:19
+Humidity is: 23.60%
+Temperature is: 71.78°F
+01/29/22  04:00:22
+Humidity is: 23.60%
+Temperature is: 71.78°F
+01/29/22  04:00:25
+Humidity is: 23.60%
+Temperature is: 71.78°F
+01/29/22  04:00:28
+Humidity is: 23.60%
+Temperature is: 71.78°F
+
+01/29/22  05:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  05:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  05:00:08
+Humidity is: 23.20%
+Temperature is: 71.78°F
+01/29/22  05:00:11
+Humidity is: 23.40%
+Temperature is: 71.78°F
+01/29/22  05:00:14
+Humidity is: 23.40%
+Temperature is: 71.78°F
+01/29/22  05:00:17
+Humidity is: 23.40%
+Temperature is: 71.60°F
+01/29/22  05:00:20
+Humidity is: 23.40%
+Temperature is: 71.60°F
+01/29/22  05:00:23
+Humidity is: 23.30%
+Temperature is: 71.60°F
+01/29/22  05:00:26
+Humidity is: 23.40%
+Temperature is: 71.60°F
+01/29/22  05:00:29
+Humidity is: 23.40%
+Temperature is: 71.60°F
+
+01/29/22  06:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  06:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  06:00:07
+Humidity is: 22.90%
+Temperature is: 71.78°F
+01/29/22  06:00:10
+Humidity is: 23.10%
+Temperature is: 71.60°F
+01/29/22  06:00:13
+Humidity is: 23.00%
+Temperature is: 71.60°F
+01/29/22  06:00:16
+Humidity is: 23.00%
+Temperature is: 71.60°F
+01/29/22  06:00:19
+Humidity is: 23.00%
+Temperature is: 71.60°F
+01/29/22  06:00:22
+Humidity is: 23.10%
+Temperature is: 71.60°F
+01/29/22  06:00:25
+Humidity is: 23.10%
+Temperature is: 71.60°F
+01/29/22  06:00:28
+Humidity is: 23.00%
+Temperature is: 71.60°F
+
+01/29/22  07:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  07:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  07:00:07
+Humidity is: 22.30%
+Temperature is: 71.78°F
+01/29/22  07:00:10
+Humidity is: 22.60%
+Temperature is: 71.78°F
+01/29/22  07:00:13
+Humidity is: 22.60%
+Temperature is: 71.78°F
+01/29/22  07:00:16
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/29/22  07:00:19
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/29/22  07:00:22
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/29/22  07:00:25
+Humidity is: 22.60%
+Temperature is: 71.60°F
+01/29/22  07:00:28
+Humidity is: 22.60%
+Temperature is: 71.78°F
+
+01/29/22  08:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  08:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  08:00:07
+Humidity is: 22.20%
+Temperature is: 71.78°F
+01/29/22  08:00:10
+Humidity is: 22.50%
+Temperature is: 71.78°F
+01/29/22  08:00:13
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/29/22  08:00:16
+Humidity is: 22.50%
+Temperature is: 71.78°F
+01/29/22  08:00:19
+Humidity is: 22.40%
+Temperature is: 71.78°F
+01/29/22  08:00:22
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/29/22  08:00:25
+Humidity is: 22.40%
+Temperature is: 71.60°F
+01/29/22  08:00:28
+Humidity is: 22.30%
+Temperature is: 71.60°F
+
+01/29/22  09:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  09:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  09:00:07
+Humidity is: 21.70%
+Temperature is: 71.96°F
+01/29/22  09:00:10
+Humidity is: 22.00%
+Temperature is: 71.96°F
+01/29/22  09:00:13
+Humidity is: 22.00%
+Temperature is: 71.96°F
+01/29/22  09:00:16
+Humidity is: 22.10%
+Temperature is: 71.96°F
+01/29/22  09:00:19
+Humidity is: 22.00%
+Temperature is: 71.96°F
+01/29/22  09:00:22
+Humidity is: 22.00%
+Temperature is: 71.96°F
+01/29/22  09:00:25
+Humidity is: 22.00%
+Temperature is: 71.96°F
+01/29/22  09:00:28
+Humidity is: 22.00%
+Temperature is: 71.96°F
+
+01/29/22  10:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  10:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  10:00:07
+Humidity is: 22.80%
+Temperature is: 72.32°F
+01/29/22  10:00:10
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/29/22  10:00:13
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/29/22  10:00:16
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/29/22  10:00:19
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/29/22  10:00:22
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/29/22  10:00:25
+Humidity is: 23.10%
+Temperature is: 72.14°F
+01/29/22  10:00:28
+Humidity is: 23.10%
+Temperature is: 72.14°F
+
+01/29/22  11:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  11:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  11:00:08
+Humidity is: 22.30%
+Temperature is: 73.04°F
+01/29/22  11:00:11
+Humidity is: 22.50%
+Temperature is: 72.86°F
+01/29/22  11:00:14
+Humidity is: 22.50%
+Temperature is: 72.86°F
+01/29/22  11:00:17
+Humidity is: 22.50%
+Temperature is: 72.86°F
+01/29/22  11:00:20
+Humidity is: 22.50%
+Temperature is: 72.86°F
+01/29/22  11:00:23
+Humidity is: 22.50%
+Temperature is: 72.86°F
+01/29/22  11:00:26
+Humidity is: 22.50%
+Temperature is: 72.86°F
+01/29/22  11:00:29
+Humidity is: 22.40%
+Temperature is: 72.86°F
+
+01/29/22  12:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  12:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  12:00:07
+Humidity is: 23.00%
+Temperature is: 71.96°F
+01/29/22  12:00:10
+Humidity is: 23.30%
+Temperature is: 71.78°F
+01/29/22  12:00:13
+Humidity is: 23.20%
+Temperature is: 71.78°F
+01/29/22  12:00:16
+Humidity is: 23.30%
+Temperature is: 71.96°F
+01/29/22  12:00:19
+Humidity is: 23.30%
+Temperature is: 71.96°F
+01/29/22  12:00:22
+Humidity is: 23.20%
+Temperature is: 71.78°F
+01/29/22  12:00:25
+Humidity is: 23.20%
+Temperature is: 71.78°F
+01/29/22  12:00:28
+Humidity is: 23.30%
+Temperature is: 71.78°F
+
+01/29/22  13:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  13:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  13:00:08
+Humidity is: 23.50%
+Temperature is: 72.14°F
+01/29/22  13:00:11
+Humidity is: 23.80%
+Temperature is: 71.96°F
+01/29/22  13:00:14
+Humidity is: 23.70%
+Temperature is: 71.96°F
+01/29/22  13:00:17
+Humidity is: 23.70%
+Temperature is: 71.96°F
+01/29/22  13:00:20
+Humidity is: 23.70%
+Temperature is: 71.96°F
+01/29/22  13:00:23
+Humidity is: 23.80%
+Temperature is: 71.96°F
+01/29/22  13:00:26
+Humidity is: 23.70%
+Temperature is: 71.78°F
+01/29/22  13:00:29
+Humidity is: 23.80%
+Temperature is: 71.96°F
+
+01/29/22  14:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  14:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  14:00:07
+Humidity is: 23.80%
+Temperature is: 71.24°F
+01/29/22  14:00:10
+Humidity is: 24.00%
+Temperature is: 71.06°F
+01/29/22  14:00:13
+Humidity is: 24.00%
+Temperature is: 71.06°F
+01/29/22  14:00:16
+Humidity is: 24.00%
+Temperature is: 71.06°F
+01/29/22  14:00:19
+Humidity is: 24.00%
+Temperature is: 71.06°F
+01/29/22  14:00:22
+Humidity is: 24.00%
+Temperature is: 71.06°F
+01/29/22  14:00:25
+Humidity is: 24.00%
+Temperature is: 71.06°F
+01/29/22  14:00:28
+Humidity is: 24.00%
+Temperature is: 71.06°F
+
+01/29/22  15:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  15:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  15:00:08
+Humidity is: 23.20%
+Temperature is: 72.32°F
+01/29/22  15:00:11
+Humidity is: 23.40%
+Temperature is: 72.14°F
+01/29/22  15:00:14
+Humidity is: 23.40%
+Temperature is: 72.14°F
+01/29/22  15:00:17
+Humidity is: 23.50%
+Temperature is: 72.14°F
+01/29/22  15:00:20
+Humidity is: 23.40%
+Temperature is: 72.14°F
+01/29/22  15:00:23
+Humidity is: 23.40%
+Temperature is: 72.14°F
+01/29/22  15:00:26
+Humidity is: 23.40%
+Temperature is: 72.14°F
+01/29/22  15:00:29
+Humidity is: 23.40%
+Temperature is: 71.96°F
+
+01/29/22  16:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  16:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  16:00:07
+Humidity is: 22.70%
+Temperature is: 72.32°F
+01/29/22  16:00:10
+Humidity is: 22.90%
+Temperature is: 72.14°F
+01/29/22  16:00:13
+Humidity is: 22.90%
+Temperature is: 72.14°F
+01/29/22  16:00:16
+Humidity is: 22.90%
+Temperature is: 72.14°F
+01/29/22  16:00:19
+Humidity is: 22.90%
+Temperature is: 72.14°F
+01/29/22  16:00:22
+Humidity is: 22.90%
+Temperature is: 72.14°F
+01/29/22  16:00:25
+Humidity is: 22.90%
+Temperature is: 72.14°F
+01/29/22  16:00:28
+Humidity is: 22.90%
+Temperature is: 72.14°F
+
+01/29/22  17:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  17:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  17:00:08
+Humidity is: 21.30%
+Temperature is: 72.14°F
+01/29/22  17:00:11
+Humidity is: 21.60%
+Temperature is: 71.96°F
+01/29/22  17:00:14
+Humidity is: 21.60%
+Temperature is: 71.96°F
+01/29/22  17:00:17
+Humidity is: 21.60%
+Temperature is: 71.96°F
+01/29/22  17:00:20
+Humidity is: 21.60%
+Temperature is: 71.96°F
+01/29/22  17:00:23
+Humidity is: 21.60%
+Temperature is: 71.96°F
+01/29/22  17:00:26
+Humidity is: 21.60%
+Temperature is: 71.96°F
+01/29/22  17:00:29
+Humidity is: 21.60%
+Temperature is: 71.96°F
+
+01/29/22  18:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  18:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  18:00:07
+Humidity is: 20.60%
+Temperature is: 73.58°F
+01/29/22  18:00:10
+Humidity is: 20.90%
+Temperature is: 73.40°F
+01/29/22  18:00:13
+Humidity is: 20.90%
+Temperature is: 73.40°F
+01/29/22  18:00:16
+Humidity is: 20.90%
+Temperature is: 73.22°F
+01/29/22  18:00:19
+Humidity is: 20.90%
+Temperature is: 73.40°F
+01/29/22  18:00:22
+Humidity is: 20.90%
+Temperature is: 73.22°F
+01/29/22  18:00:25
+Humidity is: 20.90%
+Temperature is: 73.40°F
+01/29/22  18:00:28
+Humidity is: 20.90%
+Temperature is: 73.22°F
+
+01/29/22  19:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  19:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  19:00:08
+Humidity is: 27.30%
+Temperature is: 73.40°F
+01/29/22  19:00:11
+Humidity is: 27.40%
+Temperature is: 73.22°F
+01/29/22  19:00:14
+Humidity is: 27.50%
+Temperature is: 73.40°F
+01/29/22  19:00:17
+Humidity is: 27.30%
+Temperature is: 73.40°F
+01/29/22  19:00:20
+Humidity is: 27.40%
+Temperature is: 73.40°F
+01/29/22  19:00:23
+Humidity is: 27.30%
+Temperature is: 73.40°F
+01/29/22  19:00:26
+Humidity is: 27.30%
+Temperature is: 73.40°F
+01/29/22  19:00:29
+Humidity is: 27.30%
+Temperature is: 73.40°F
+
+01/29/22  20:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  20:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  20:00:07
+Humidity is: 24.10%
+Temperature is: 73.04°F
+01/29/22  20:00:10
+Humidity is: 24.40%
+Temperature is: 72.86°F
+01/29/22  20:00:13
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/29/22  20:00:16
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/29/22  20:00:19
+Humidity is: 24.30%
+Temperature is: 72.86°F
+01/29/22  20:00:22
+Humidity is: 24.30%
+Temperature is: 73.04°F
+01/29/22  20:00:25
+Humidity is: 24.30%
+Temperature is: 73.04°F
+01/29/22  20:00:28
+Humidity is: 24.30%
+Temperature is: 73.04°F
+
+01/29/22  21:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  21:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  21:00:08
+Humidity is: 21.70%
+Temperature is: 73.76°F
+01/29/22  21:00:11
+Humidity is: 21.90%
+Temperature is: 73.76°F
+01/29/22  21:00:14
+Humidity is: 21.80%
+Temperature is: 73.58°F
+01/29/22  21:00:17
+Humidity is: 21.90%
+Temperature is: 73.76°F
+01/29/22  21:00:20
+Humidity is: 21.80%
+Temperature is: 73.76°F
+01/29/22  21:00:23
+Humidity is: 21.90%
+Temperature is: 73.76°F
+01/29/22  21:00:26
+Humidity is: 21.80%
+Temperature is: 73.76°F
+01/29/22  21:00:29
+Humidity is: 21.80%
+Temperature is: 73.76°F
+
+01/29/22  22:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  22:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  22:00:07
+Humidity is: 23.80%
+Temperature is: 72.68°F
+01/29/22  22:00:10
+Humidity is: 24.00%
+Temperature is: 72.50°F
+01/29/22  22:00:13
+Humidity is: 24.00%
+Temperature is: 72.50°F
+01/29/22  22:00:16
+Humidity is: 24.00%
+Temperature is: 72.50°F
+01/29/22  22:00:19
+Humidity is: 24.00%
+Temperature is: 72.50°F
+01/29/22  22:00:22
+Humidity is: 24.00%
+Temperature is: 72.50°F
+01/29/22  22:00:25
+Humidity is: 23.90%
+Temperature is: 72.50°F
+01/29/22  22:00:28
+Humidity is: 23.90%
+Temperature is: 72.50°F
+
+01/29/22  23:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  23:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/29/22  23:00:08
+Humidity is: 22.30%
+Temperature is: 72.32°F
+01/29/22  23:00:11
+Humidity is: 22.50%
+Temperature is: 72.14°F
+01/29/22  23:00:14
+Humidity is: 22.50%
+Temperature is: 72.14°F
+01/29/22  23:00:17
+Humidity is: 22.50%
+Temperature is: 72.14°F
+01/29/22  23:00:20
+Humidity is: 22.50%
+Temperature is: 72.14°F
+01/29/22  23:00:23
+Humidity is: 22.50%
+Temperature is: 72.14°F
+01/29/22  23:00:26
+Humidity is: 22.40%
+Temperature is: 72.14°F
+01/29/22  23:00:29
+Humidity is: 22.40%
+Temperature is: 72.14°F
+
+01/30/22  00:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  00:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  00:00:07
+Humidity is: 21.80%
+Temperature is: 72.14°F
+01/30/22  00:00:10
+Humidity is: 22.10%
+Temperature is: 72.14°F
+01/30/22  00:00:13
+Humidity is: 22.10%
+Temperature is: 72.14°F
+01/30/22  00:00:16
+Humidity is: 22.10%
+Temperature is: 72.14°F
+01/30/22  00:00:19
+Humidity is: 22.10%
+Temperature is: 72.14°F
+01/30/22  00:00:22
+Humidity is: 22.10%
+Temperature is: 72.14°F
+01/30/22  00:00:25
+Humidity is: 22.10%
+Temperature is: 72.14°F
+01/30/22  00:00:28
+Humidity is: 22.10%
+Temperature is: 72.14°F
+
+01/30/22  01:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  01:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  01:00:08
+Humidity is: 21.10%
+Temperature is: 71.60°F
+01/30/22  01:00:11
+Humidity is: 21.30%
+Temperature is: 71.60°F
+01/30/22  01:00:14
+Humidity is: 21.30%
+Temperature is: 71.60°F
+01/30/22  01:00:17
+Humidity is: 21.20%
+Temperature is: 71.60°F
+01/30/22  01:00:20
+Humidity is: 21.20%
+Temperature is: 71.42°F
+01/30/22  01:00:23
+Humidity is: 21.30%
+Temperature is: 71.60°F
+01/30/22  01:00:26
+Humidity is: 21.30%
+Temperature is: 71.60°F
+01/30/22  01:00:29
+Humidity is: 21.20%
+Temperature is: 71.42°F
+
+01/30/22  02:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  02:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  02:00:07
+Humidity is: 20.40%
+Temperature is: 71.60°F
+01/30/22  02:00:10
+Humidity is: 20.60%
+Temperature is: 71.42°F
+01/30/22  02:00:13
+Humidity is: 20.60%
+Temperature is: 71.42°F
+01/30/22  02:00:16
+Humidity is: 20.50%
+Temperature is: 71.42°F
+01/30/22  02:00:19
+Humidity is: 20.50%
+Temperature is: 71.42°F
+01/30/22  02:00:22
+Humidity is: 20.50%
+Temperature is: 71.42°F
+01/30/22  02:00:25
+Humidity is: 20.60%
+Temperature is: 71.42°F
+01/30/22  02:00:28
+Humidity is: 20.50%
+Temperature is: 71.42°F
+
+01/30/22  03:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  03:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  03:00:08
+Humidity is: 20.10%
+Temperature is: 71.42°F
+01/30/22  03:00:11
+Humidity is: 20.20%
+Temperature is: 71.24°F
+01/30/22  03:00:14
+Humidity is: 20.20%
+Temperature is: 71.24°F
+01/30/22  03:00:17
+Humidity is: 20.20%
+Temperature is: 71.42°F
+01/30/22  03:00:20
+Humidity is: 20.20%
+Temperature is: 71.24°F
+01/30/22  03:00:23
+Humidity is: 20.30%
+Temperature is: 71.42°F
+01/30/22  03:00:26
+Humidity is: 20.20%
+Temperature is: 71.24°F
+01/30/22  03:00:29
+Humidity is: 20.20%
+Temperature is: 71.24°F
+
+01/30/22  04:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  04:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  04:00:07
+Humidity is: 19.90%
+Temperature is: 71.42°F
+01/30/22  04:00:10
+Humidity is: 20.10%
+Temperature is: 71.24°F
+01/30/22  04:00:13
+Humidity is: 20.10%
+Temperature is: 71.24°F
+01/30/22  04:00:16
+Humidity is: 20.10%
+Temperature is: 71.24°F
+01/30/22  04:00:19
+Humidity is: 20.00%
+Temperature is: 71.06°F
+01/30/22  04:00:22
+Humidity is: 20.10%
+Temperature is: 71.24°F
+01/30/22  04:00:25
+Humidity is: 20.10%
+Temperature is: 71.24°F
+01/30/22  04:00:28
+Humidity is: 20.10%
+Temperature is: 71.24°F
+
+01/30/22  05:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  05:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  05:00:08
+Humidity is: 19.40%
+Temperature is: 71.24°F
+01/30/22  05:00:11
+Humidity is: 19.70%
+Temperature is: 71.24°F
+01/30/22  05:00:14
+Humidity is: 19.70%
+Temperature is: 71.24°F
+01/30/22  05:00:17
+Humidity is: 19.70%
+Temperature is: 71.24°F
+01/30/22  05:00:20
+Humidity is: 19.70%
+Temperature is: 71.24°F
+01/30/22  05:00:23
+Humidity is: 19.70%
+Temperature is: 71.24°F
+01/30/22  05:00:26
+Humidity is: 19.70%
+Temperature is: 71.24°F
+01/30/22  05:00:29
+Humidity is: 19.70%
+Temperature is: 71.24°F
+
+01/30/22  06:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  06:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  06:00:07
+Humidity is: 18.90%
+Temperature is: 70.88°F
+01/30/22  06:00:10
+Humidity is: 19.20%
+Temperature is: 70.88°F
+01/30/22  06:00:13
+Humidity is: 19.20%
+Temperature is: 70.88°F
+01/30/22  06:00:16
+Humidity is: 19.20%
+Temperature is: 70.88°F
+01/30/22  06:00:19
+Humidity is: 19.10%
+Temperature is: 70.88°F
+01/30/22  06:00:22
+Humidity is: 19.10%
+Temperature is: 70.88°F
+01/30/22  06:00:25
+Humidity is: 19.10%
+Temperature is: 70.88°F
+01/30/22  06:00:28
+Humidity is: 19.10%
+Temperature is: 70.88°F
+
+01/30/22  07:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  07:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  07:00:08
+Humidity is: 18.70%
+Temperature is: 71.24°F
+01/30/22  07:00:11
+Humidity is: 18.90%
+Temperature is: 71.06°F
+01/30/22  07:00:14
+Humidity is: 19.00%
+Temperature is: 71.06°F
+01/30/22  07:00:17
+Humidity is: 18.90%
+Temperature is: 71.06°F
+01/30/22  07:00:20
+Humidity is: 18.90%
+Temperature is: 71.06°F
+01/30/22  07:00:23
+Humidity is: 18.80%
+Temperature is: 71.06°F
+01/30/22  07:00:26
+Humidity is: 18.90%
+Temperature is: 71.24°F
+01/30/22  07:00:29
+Humidity is: 18.90%
+Temperature is: 71.24°F
+
+01/30/22  08:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  08:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  08:00:07
+Humidity is: 18.80%
+Temperature is: 71.78°F
+01/30/22  08:00:10
+Humidity is: 18.90%
+Temperature is: 71.60°F
+01/30/22  08:00:13
+Humidity is: 19.00%
+Temperature is: 71.60°F
+01/30/22  08:00:16
+Humidity is: 17.60%
+Temperature is: 71.60°F
+01/30/22  08:00:19
+Humidity is: 18.90%
+Temperature is: 71.60°F
+01/30/22  08:00:22
+Humidity is: 18.90%
+Temperature is: 71.60°F
+01/30/22  08:00:25
+Humidity is: 18.90%
+Temperature is: 71.60°F
+01/30/22  08:00:28
+Humidity is: 18.90%
+Temperature is: 71.42°F
+
+01/30/22  09:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  09:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  09:00:08
+Humidity is: 19.00%
+Temperature is: 71.78°F
+01/30/22  09:00:11
+Humidity is: 19.30%
+Temperature is: 71.60°F
+01/30/22  09:00:14
+Humidity is: 19.60%
+Temperature is: 71.78°F
+01/30/22  09:00:17
+Humidity is: 19.30%
+Temperature is: 71.78°F
+01/30/22  09:00:20
+Humidity is: 19.30%
+Temperature is: 71.78°F
+01/30/22  09:00:23
+Humidity is: 19.30%
+Temperature is: 71.78°F
+01/30/22  09:00:26
+Humidity is: 19.30%
+Temperature is: 71.78°F
+01/30/22  09:00:29
+Humidity is: 19.20%
+Temperature is: 71.78°F
+
+01/30/22  10:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  10:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  10:00:07
+Humidity is: 20.00%
+Temperature is: 73.22°F
+01/30/22  10:00:10
+Humidity is: 20.30%
+Temperature is: 73.04°F
+01/30/22  10:00:13
+Humidity is: 20.30%
+Temperature is: 73.04°F
+01/30/22  10:00:16
+Humidity is: 20.20%
+Temperature is: 73.04°F
+01/30/22  10:00:19
+Humidity is: 20.30%
+Temperature is: 73.04°F
+01/30/22  10:00:22
+Humidity is: 20.20%
+Temperature is: 73.04°F
+01/30/22  10:00:25
+Humidity is: 20.20%
+Temperature is: 73.04°F
+01/30/22  10:00:28
+Humidity is: 20.20%
+Temperature is: 73.04°F
+
+01/30/22  11:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  11:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  11:00:08
+Humidity is: 20.70%
+Temperature is: 72.32°F
+01/30/22  11:00:11
+Humidity is: 20.90%
+Temperature is: 72.14°F
+01/30/22  11:00:14
+Humidity is: 20.90%
+Temperature is: 72.14°F
+01/30/22  11:00:17
+Humidity is: 20.90%
+Temperature is: 72.14°F
+01/30/22  11:00:20
+Humidity is: 21.00%
+Temperature is: 72.14°F
+01/30/22  11:00:23
+Humidity is: 20.90%
+Temperature is: 72.14°F
+01/30/22  11:00:26
+Humidity is: 21.00%
+Temperature is: 72.14°F
+01/30/22  11:00:29
+Humidity is: 21.00%
+Temperature is: 72.14°F
+
+01/30/22  12:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  12:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  12:00:07
+Humidity is: 21.40%
+Temperature is: 72.68°F
+01/30/22  12:00:10
+Humidity is: 21.70%
+Temperature is: 72.50°F
+01/30/22  12:00:13
+Humidity is: 21.60%
+Temperature is: 72.50°F
+01/30/22  12:00:16
+Humidity is: 21.60%
+Temperature is: 72.50°F
+01/30/22  12:00:19
+Humidity is: 21.60%
+Temperature is: 72.50°F
+01/30/22  12:00:22
+Humidity is: 21.60%
+Temperature is: 72.50°F
+01/30/22  12:00:25
+Humidity is: 21.60%
+Temperature is: 72.68°F
+01/30/22  12:00:28
+Humidity is: 21.60%
+Temperature is: 72.50°F
+
+01/30/22  13:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  13:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  13:00:08
+Humidity is: 21.80%
+Temperature is: 72.50°F
+01/30/22  13:00:11
+Humidity is: 22.00%
+Temperature is: 72.32°F
+01/30/22  13:00:14
+Humidity is: 22.00%
+Temperature is: 72.32°F
+01/30/22  13:00:17
+Humidity is: 22.00%
+Temperature is: 72.32°F
+01/30/22  13:00:20
+Humidity is: 22.00%
+Temperature is: 72.32°F
+01/30/22  13:00:23
+Humidity is: 22.00%
+Temperature is: 72.32°F
+01/30/22  13:00:26
+Humidity is: 21.90%
+Temperature is: 72.32°F
+01/30/22  13:00:29
+Humidity is: 22.00%
+Temperature is: 72.32°F
+
+01/30/22  14:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  14:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  14:00:07
+Humidity is: 22.90%
+Temperature is: 73.22°F
+01/30/22  14:00:10
+Humidity is: 23.20%
+Temperature is: 73.22°F
+01/30/22  14:00:13
+Humidity is: 23.10%
+Temperature is: 73.04°F
+01/30/22  14:00:16
+Humidity is: 23.10%
+Temperature is: 73.22°F
+01/30/22  14:00:19
+Humidity is: 23.10%
+Temperature is: 73.22°F
+01/30/22  14:00:22
+Humidity is: 23.10%
+Temperature is: 73.04°F
+01/30/22  14:00:25
+Humidity is: 23.10%
+Temperature is: 73.22°F
+01/30/22  14:00:28
+Humidity is: 23.10%
+Temperature is: 73.22°F
+
+01/30/22  15:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  15:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  15:00:08
+Humidity is: 22.70%
+Temperature is: 72.86°F
+01/30/22  15:00:11
+Humidity is: 22.90%
+Temperature is: 72.68°F
+01/30/22  15:00:14
+Humidity is: 23.00%
+Temperature is: 72.68°F
+01/30/22  15:00:17
+Humidity is: 22.90%
+Temperature is: 72.68°F
+01/30/22  15:00:20
+Humidity is: 22.90%
+Temperature is: 72.68°F
+01/30/22  15:00:23
+Humidity is: 22.90%
+Temperature is: 72.68°F
+01/30/22  15:00:26
+Humidity is: 22.90%
+Temperature is: 72.68°F
+01/30/22  15:00:29
+Humidity is: 23.00%
+Temperature is: 72.86°F
+
+01/30/22  16:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  16:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  16:00:07
+Humidity is: 21.60%
+Temperature is: 73.22°F
+01/30/22  16:00:10
+Humidity is: 21.90%
+Temperature is: 73.22°F
+01/30/22  16:00:13
+Humidity is: 21.80%
+Temperature is: 73.22°F
+01/30/22  16:00:16
+Humidity is: 21.80%
+Temperature is: 73.22°F
+01/30/22  16:00:19
+Humidity is: 21.50%
+Temperature is: 73.04°F
+01/30/22  16:00:22
+Humidity is: 21.80%
+Temperature is: 73.04°F
+01/30/22  16:00:25
+Humidity is: 21.80%
+Temperature is: 73.22°F
+01/30/22  16:00:28
+Humidity is: 21.80%
+Temperature is: 73.22°F
+
+01/30/22  17:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  17:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  17:00:08
+Humidity is: 20.90%
+Temperature is: 73.58°F
+01/30/22  17:00:11
+Humidity is: 21.20%
+Temperature is: 73.40°F
+01/30/22  17:00:14
+Humidity is: 21.10%
+Temperature is: 73.40°F
+01/30/22  17:00:17
+Humidity is: 21.20%
+Temperature is: 73.40°F
+01/30/22  17:00:20
+Humidity is: 21.10%
+Temperature is: 73.40°F
+01/30/22  17:00:23
+Humidity is: 21.10%
+Temperature is: 73.40°F
+01/30/22  17:00:26
+Humidity is: 21.20%
+Temperature is: 73.40°F
+01/30/22  17:00:29
+Humidity is: 21.10%
+Temperature is: 73.40°F
+
+01/30/22  18:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  18:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  18:00:07
+Humidity is: 22.90%
+Temperature is: 73.22°F
+01/30/22  18:00:10
+Humidity is: 23.20%
+Temperature is: 73.22°F
+01/30/22  18:00:13
+Humidity is: 23.20%
+Temperature is: 73.22°F
+01/30/22  18:00:16
+Humidity is: 23.00%
+Temperature is: 73.04°F
+01/30/22  18:00:19
+Humidity is: 23.10%
+Temperature is: 73.04°F
+01/30/22  18:00:22
+Humidity is: 23.10%
+Temperature is: 73.22°F
+01/30/22  18:00:25
+Humidity is: 23.10%
+Temperature is: 73.22°F
+01/30/22  18:00:28
+Humidity is: 23.00%
+Temperature is: 73.22°F
+
+01/30/22  19:00:02
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  19:00:05
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  19:00:08
+Humidity is: 24.10%
+Temperature is: 73.40°F
+01/30/22  19:00:11
+Humidity is: 24.20%
+Temperature is: 73.40°F
+01/30/22  19:00:14
+Humidity is: 24.20%
+Temperature is: 73.22°F
+01/30/22  19:00:17
+Humidity is: 24.20%
+Temperature is: 73.22°F
+01/30/22  19:00:20
+Humidity is: 24.20%
+Temperature is: 73.40°F
+01/30/22  19:00:23
+Humidity is: 24.20%
+Temperature is: 73.22°F
+01/30/22  19:00:26
+Humidity is: 24.30%
+Temperature is: 73.40°F
+01/30/22  19:00:29
+Humidity is: 24.30%
+Temperature is: 73.40°F
+
+01/30/22  20:00:01
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  20:00:04
+Humidity is: -999.00%
+Temperature is: -1766.20°F
+01/30/22  20:00:07
+Humidity is: 23.90%
+Temperature is: 73.04°F
+01/30/22  20:00:10
+Humidity is: 24.10%
+Temperature is: 72.86°F
+01/30/22  20:00:13
+Humidity is: 24.00%
+Temperature is: 72.86°F
+01/30/22  20:00:16
+Humidity is: 24.10%
+Temperature is: 72.86°F
+01/30/22  20:00:19
+Humidity is: 24.20%
+Temperature is: 72.86°F
+01/30/22  20:00:22
+Humidity is: 24.10%
+Temperature is: 72.86°F
+01/30/22  20:00:25
+Humidity is: 24.00%
+Temperature is: 72.86°F
+01/30/22  20:00:28
+Humidity is: 24.00%
+Temperature is: 72.86°F
+

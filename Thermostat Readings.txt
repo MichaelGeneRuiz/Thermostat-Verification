@@ -1,0 +1,111 @@
+1/24/2022 8:15 pm
+73 F
+22% Humidity
+
+1/25/2022 10:00am
+72 F
+24% Humidity
+
+1/25/2022 12:00pm
+72 F
+22% Humidity
+
+1/25/2022 3:00pm
+72 F
+23% Humidity
+
+1/25/2022 7:00pm
+73 F
+25% Humidity
+
+1/26/2022 12:00am
+72 F
+25% Humidity
+
+1/26/2022 8:00am
+73 F
+20% Humidity
+
+1/26/2022 10:00am
+73 F
+20% Humidity
+
+1/26/2022 2:00pm
+73 F
+18% Humidity
+
+1/27/2022 9:00am
+73 F
+17% Humidity
+
+1/27/2022 12:00pm
+73 F
+17% Humidity
+
+1/27/2022 3:00pm
+73 F
+20% Humidity
+
+1/27/2022 5:00pm
+73 F
+21% Humidity
+
+1/27/2022 8:00pm
+73 F
+20% Humidity
+
+1/28/2022 8:00am
+72 F
+18% Humidity
+
+1/28/2022 11:00am
+73 F
+19% Humidity
+
+1/28/2022 3:00pm
+73 F
+22% Humidity
+
+1/28/2022 6:00pm
+73 F
+22% Humidity
+
+1/29/2022 10:00am
+72 F
+21% Humidity
+
+1/29/2022 1:00pm
+72 F
+22% Humidity
+
+1/29/2022 2:00pm
+72 F
+21% Humidity
+
+1/29/2022 5:00pm
+72 F
+20% Humidity
+
+1/29/2022 10:00pm
+73 F
+21% Humidity
+
+1/30/2022 9:00am
+72 F
+16% Humidity
+
+1/30/2022 12:00pm
+73 F
+17% Humidity
+
+1/30/2022 2:00pm
+73 F
+18% Humidity
+
+1/30/2022 6:00pm
+73 F
+18% Humidity
+
+1/30/2022 8:00pm
+73 F
+23% Humidity
